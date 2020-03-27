@@ -1,0 +1,67 @@
+[
+    {
+        "country": "Venezuela (Bolivarian Republic of)",
+        "byDate": [
+            {
+                "date": "March 14, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 33,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 33,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 70,
+                "death": 0
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 70,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 77,
+                "death": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "country": "Bosnia and Herzegovina",
+        "byDate": [
+            {
+                "date": "March 05, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 06, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 07, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 08, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 09, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 10, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 11, 2020",
+                "confirmed": 4,
+                "death": 0
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 4,
+                "death": 0
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 4,
+                "death": 0
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 11,
+                "death": 0
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 18,
+                "death": 0
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 18,
+                "death": 0
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 19,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 19,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 44,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 92,
+                "death": 1
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 125,
+                "death": 1
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 131,
+                "death": 1
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 164,
+                "death": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "country": "United States of America",
+        "byDate": [
+            {
+                "date": "March 01, 2020",
+                "confirmed": 62,
+                "death": 0
+            },
+            {
+                "date": "March 05, 2020",
+                "confirmed": 129,
+                "death": 9
+            },
+            {
+                "date": "March 06, 2020",
+                "confirmed": 148,
+                "death": 10
+            },
+            {
+                "date": "March 07, 2020",
+                "confirmed": 213,
+                "death": 11
+            },
+            {
+                "date": "March 08, 2020",
+                "confirmed": 213,
+                "death": 11
+            },
+            {
+                "date": "March 09, 2020",
+                "confirmed": 213,
+                "death": 11
+            },
+            {
+                "date": "March 10, 2020",
+                "confirmed": 472,
+                "death": 19
+            },
+            {
+                "date": "March 11, 2020",
+                "confirmed": 696,
+                "death": 25
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 987,
+                "death": 29
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 1264,
+                "death": 36
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 1678,
+                "death": 41
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 1678,
+                "death": 41
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 1678,
+                "death": 41
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 3503,
+                "death": 58
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 3536,
+                "death": 58
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 7087,
+                "death": 100
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 10442,
+                "death": 150
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 15219,
+                "death": 201
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 15219,
+                "death": 201
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 31573,
+                "death": 402
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 42164,
+                "death": 471
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 51914,
+                "death": 673
+            }
+        ]
+    }
+]

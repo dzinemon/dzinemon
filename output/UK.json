@@ -1,0 +1,27 @@
+[
+    {
+        "country": "the United Kingdom",
+        "byDate": [
+            {
+                "date": "March 02, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 03, 2020",
+                "confirmed": 39,
+                "death": 0
+            },
+            {
+                "date": "March 04, 2020",
+                "confirmed": 51,
+                "death": 0
+            },
+            {
+                "date": "March 05, 2020",
+                "confirmed": 89,
+                "death": 0
+            }
+        ]
+    }
+]

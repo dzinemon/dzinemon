@@ -1,0 +1,22 @@
+[
+    {
+        "country": "the United States",
+        "byDate": [
+            {
+                "date": "March 02, 2020",
+                "confirmed": 62,
+                "death": 0
+            },
+            {
+                "date": "March 03, 2020",
+                "confirmed": 64,
+                "death": 2
+            },
+            {
+                "date": "March 04, 2020",
+                "confirmed": 108,
+                "death": 6
+            }
+        ]
+    }
+]

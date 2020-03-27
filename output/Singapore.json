@@ -1,0 +1,132 @@
+[
+    {
+        "country": "Singapore",
+        "byDate": [
+            {
+                "date": "March 01, 2020",
+                "confirmed": 102,
+                "death": 0
+            },
+            {
+                "date": "March 02, 2020",
+                "confirmed": 106,
+                "death": 0
+            },
+            {
+                "date": "March 03, 2020",
+                "confirmed": 108,
+                "death": 0
+            },
+            {
+                "date": "March 04, 2020",
+                "confirmed": 110,
+                "death": 0
+            },
+            {
+                "date": "March 05, 2020",
+                "confirmed": 110,
+                "death": 0
+            },
+            {
+                "date": "March 06, 2020",
+                "confirmed": 117,
+                "death": 0
+            },
+            {
+                "date": "March 07, 2020",
+                "confirmed": 130,
+                "death": 0
+            },
+            {
+                "date": "March 08, 2020",
+                "confirmed": 138,
+                "death": 0
+            },
+            {
+                "date": "March 09, 2020",
+                "confirmed": 150,
+                "death": 0
+            },
+            {
+                "date": "March 10, 2020",
+                "confirmed": 160,
+                "death": 0
+            },
+            {
+                "date": "March 11, 2020",
+                "confirmed": 166,
+                "death": 0
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 178,
+                "death": 0
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 187,
+                "death": 0
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 200,
+                "death": 0
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 212,
+                "death": 0
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 243,
+                "death": 0
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 243,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 266,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 313,
+                "death": 0
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 345,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 385,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 432,
+                "death": 2
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 455,
+                "death": 2
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 507,
+                "death": 2
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 558,
+                "death": 2
+            }
+        ]
+    }
+]

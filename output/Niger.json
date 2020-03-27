@@ -1,0 +1,37 @@
+[
+    {
+        "country": "Niger",
+        "byDate": [
+            {
+                "date": "March 20, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 2,
+                "death": 0
+            }
+        ]
+    }
+]

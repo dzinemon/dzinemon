@@ -1,0 +1,132 @@
+[
+    {
+        "country": "Norway",
+        "byDate": [
+            {
+                "date": "March 01, 2020",
+                "confirmed": 15,
+                "death": 0
+            },
+            {
+                "date": "March 02, 2020",
+                "confirmed": 19,
+                "death": 0
+            },
+            {
+                "date": "March 03, 2020",
+                "confirmed": 25,
+                "death": 0
+            },
+            {
+                "date": "March 04, 2020",
+                "confirmed": 33,
+                "death": 0
+            },
+            {
+                "date": "March 05, 2020",
+                "confirmed": 56,
+                "death": 0
+            },
+            {
+                "date": "March 06, 2020",
+                "confirmed": 86,
+                "death": 0
+            },
+            {
+                "date": "March 07, 2020",
+                "confirmed": 113,
+                "death": 0
+            },
+            {
+                "date": "March 08, 2020",
+                "confirmed": 147,
+                "death": 0
+            },
+            {
+                "date": "March 09, 2020",
+                "confirmed": 169,
+                "death": 0
+            },
+            {
+                "date": "March 10, 2020",
+                "confirmed": 192,
+                "death": 0
+            },
+            {
+                "date": "March 11, 2020",
+                "confirmed": 277,
+                "death": 0
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 489,
+                "death": 0
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 489,
+                "death": 0
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 750,
+                "death": 1
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 907,
+                "death": 1
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 1077,
+                "death": 1
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 1169,
+                "death": 3
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 1308,
+                "death": 3
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 1423,
+                "death": 3
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 1552,
+                "death": 6
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 1742,
+                "death": 7
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 1926,
+                "death": 7
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 2132,
+                "death": 7
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 2371,
+                "death": 8
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 2566,
+                "death": 10
+            }
+        ]
+    }
+]

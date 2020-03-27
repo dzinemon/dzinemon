@@ -1,0 +1,55 @@
+<div id="countries_data" class="is-invisible has-background-black-ter">
+  <div class="field">
+    <div class="control">
+      <label class="label has-text-white">Search by country name</label>
+      <input type="text" id="country_search" class="search input is-small" placeholder="Search country" style="max-width: 280px;" />
+      <p class="help has-text-white" id="countries_found">
+        
+      </p>
+    </div>
+  </div>
+  <div class=" table-container">
+    <div class="table-header">
+      <table
+        class="table is-narrow is-fullwidth is-relative is-size-7-mobile has-background-black-ter has-text-white is-relative">
+        <thead class="has-text-white is-absolute">
+          <tr>
+            <th colspan="6"></th>
+          </tr>
+          <tr>
+            <th class="td-d sort hoverable he-opac has-text-white" data-sort="country" style="min-width: 160px;">Country <i
+                class="fas fa-sort"></i></th>
+            <th width="146" class="td-d sort hoverable he-opac has-text-white" data-sort="confirmed">Total Cases <i class="fas fa-sort"></i>
+            </th>
+            <th width="146" class="td-d sort hoverable he-opac has-text-danger" data-sort="death">Total Deceased <i class="fas fa-sort"></i>
+            </th>
+            <th width="146" class="td-p has-text-white has-text-danger">% Deceased</th>
+            <th width="150" class="td-d sort hoverable he-opac has-text-success" data-sort="recovered">Total Recovered <i class="fas fa-sort"></i></th>
+            <th width="146" class="td-p has-text-white has-text-success">% Recovered</th>
+          </tr>
+        </thead>
+
+
+      </table>
+    </div>
+    <div class="table-body" style="height: 500px; overflow: scroll;">
+
+      <table
+        class="table is-narrow is-fullwidth is-relative is-size-7-mobile has-background-black-ter has-text-white is-relative">
+        <thead class="has-text-white is-absolute">
+          <tr class="has-text-weight-bold">
+            <th class="td-d sort hoverable he-opac has-text-white"><i class="fas fa-globe"></i> Global</th>
+            <th class="td-d has-text-white total_confirmed">-</th>
+            <th class="td-d has-text-danger total_death">-</th>
+            <th class="td-p has-text-danger percent_death">-</th>
+            <th class="td-d has-text-success total_recovered">-</th>
+            <th class="td-p has-text-success percent_recovered">-</th>
+          </tr>
+        </thead>
+        <tbody id="countries_body" class="list">
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+[
+    {
+        "country": "Dominica",
+        "byDate": [
+            {
+                "date": "March 24, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 2,
+                "death": 0
+            }
+        ]
+    }
+]

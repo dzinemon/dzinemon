@@ -1,0 +1,37 @@
+[
+    {
+        "country": "New Caledonia",
+        "byDate": [
+            {
+                "date": "March 20, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 4,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 5,
+                "death": 0
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 8,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 10,
+                "death": 0
+            }
+        ]
+    }
+]

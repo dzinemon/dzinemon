@@ -1,0 +1,42 @@
+[
+    {
+        "country": "Mauritius",
+        "byDate": [
+            {
+                "date": "March 19, 2020",
+                "confirmed": 3,
+                "death": 0
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 7,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 12,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 12,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 12,
+                "death": 0
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 42,
+                "death": 2
+            }
+        ]
+    }
+]

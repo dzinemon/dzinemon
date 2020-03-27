@@ -1,0 +1,82 @@
+[
+    {
+        "country": "Bolivia (Plurinational State of)",
+        "byDate": [
+            {
+                "date": "March 11, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 3,
+                "death": 0
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 3,
+                "death": 0
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 3,
+                "death": 0
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 11,
+                "death": 0
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 11,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 11,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 12,
+                "death": 0
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 15,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 16,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 19,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 24,
+                "death": 0
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 27,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 28,
+                "death": 0
+            }
+        ]
+    }
+]

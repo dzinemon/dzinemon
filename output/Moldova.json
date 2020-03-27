@@ -1,0 +1,97 @@
+[
+    {
+        "country": "Republic of Moldova",
+        "byDate": [
+            {
+                "date": "March 08, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 09, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 10, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 11, 2020",
+                "confirmed": 3,
+                "death": 0
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 4,
+                "death": 0
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 4,
+                "death": 0
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 8,
+                "death": 0
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 12,
+                "death": 0
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 23,
+                "death": 0
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 29,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 30,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 36,
+                "death": 0
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 49,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 66,
+                "death": 1
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 80,
+                "death": 1
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 94,
+                "death": 1
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 109,
+                "death": 1
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 125,
+                "death": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "country": "Kosovo",
+        "byDate": [
+            {
+                "date": "March 23, 2020",
+                "confirmed": 31,
+                "death": 1
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 61,
+                "death": 1
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 63,
+                "death": 1
+            }
+        ]
+    }
+]

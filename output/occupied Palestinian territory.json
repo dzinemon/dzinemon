@@ -1,0 +1,22 @@
+[
+    {
+        "country": "Occupied Palestinian Territory",
+        "byDate": [
+            {
+                "date": "March 06, 2020",
+                "confirmed": 7,
+                "death": 0
+            },
+            {
+                "date": "March 07, 2020",
+                "confirmed": 16,
+                "death": 0
+            },
+            {
+                "date": "March 08, 2020",
+                "confirmed": 16,
+                "death": 0
+            }
+        ]
+    }
+]

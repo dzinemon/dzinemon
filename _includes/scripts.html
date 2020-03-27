@@ -1,0 +1,15 @@
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+
+{% if page._javascript %}
+{% for script in page._javascript %}
+<script src="{{ script }}"></script>  
+{% endfor %}
+{% endif %}
+<script type="text/javascript" src="lib/main.js"></script>
+
+<script type="text/javascript" src="lib/handleList.js"></script>
+<script type="text/javascript" src="lib/handleModal.js"></script>
+<script type="text/javascript" src="lib/handleSearchItems.js"></script>

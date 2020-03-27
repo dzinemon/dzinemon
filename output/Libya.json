@@ -1,0 +1,12 @@
+[
+    {
+        "country": "Libya",
+        "byDate": [
+            {
+                "date": "March 25, 2020",
+                "confirmed": 1,
+                "death": 0
+            }
+        ]
+    }
+]

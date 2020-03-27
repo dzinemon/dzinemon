@@ -1,0 +1,12 @@
+.hoverable {
+  cursor: pointer;
+
+}
+
+.he-opac {
+  
+
+  &:hover {
+    opacity: 0.8;
+  }
+}

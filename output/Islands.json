@@ -1,0 +1,27 @@
+[
+    {
+        "country": "Islands",
+        "byDate": [
+            {
+                "date": "March 17, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 6,
+                "death": 0
+            }
+        ]
+    }
+]

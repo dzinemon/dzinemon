@@ -1,0 +1,97 @@
+[
+    {
+        "country": "Faroe Islands",
+        "byDate": [
+            {
+                "date": "March 08, 2020",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "March 09, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 10, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 11, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 12, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 13, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 14, 2020",
+                "confirmed": 3,
+                "death": 0
+            },
+            {
+                "date": "March 15, 2020",
+                "confirmed": 9,
+                "death": 0
+            },
+            {
+                "date": "March 16, 2020",
+                "confirmed": 11,
+                "death": 0
+            },
+            {
+                "date": "March 17, 2020",
+                "confirmed": 47,
+                "death": 0
+            },
+            {
+                "date": "March 18, 2020",
+                "confirmed": 47,
+                "death": 0
+            },
+            {
+                "date": "March 19, 2020",
+                "confirmed": 58,
+                "death": 0
+            },
+            {
+                "date": "March 20, 2020",
+                "confirmed": 72,
+                "death": 0
+            },
+            {
+                "date": "March 21, 2020",
+                "confirmed": 80,
+                "death": 0
+            },
+            {
+                "date": "March 22, 2020",
+                "confirmed": 92,
+                "death": 0
+            },
+            {
+                "date": "March 23, 2020",
+                "confirmed": 115,
+                "death": 0
+            },
+            {
+                "date": "March 24, 2020",
+                "confirmed": 118,
+                "death": 0
+            },
+            {
+                "date": "March 25, 2020",
+                "confirmed": 122,
+                "death": 0
+            }
+        ]
+    }
+]
