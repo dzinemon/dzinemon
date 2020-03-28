@@ -5,6 +5,7 @@ var colors = {
   danger: '#ff3860',
   lighter: '#dbdbdb',
   light: '#b5b5b5',
+  success: '#23d160',
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -46,16 +47,6 @@ document.addEventListener('DOMContentLoaded', () => {
     return currentArray;
   }
 
-  var generateTabs = function(theData) {
-    var html = '<li class="is-active"><a>All</a></li>';
-    theData.sort((a, b) => {
-      return b['confirmed'] - a['confirmed'];
-    }).map(i => {
-      return html += `<li data-country="${i.country}"><a>${i.country}</a></li>`
-    })
-    return html
-  }
-
   var generateTableItem = function(item) {
     return (`
       <tr>
@@ -94,8 +85,9 @@ document.addEventListener('DOMContentLoaded', () => {
   // Callback that creates and populates a data table,
   // instantiates the pie chart, passes in the data and
   // draws it.
-  function getCountryData(theData) {
+  function getCountryData(theData, type) {
     var dataByDate = theData.byDate;
+    console.log(dataByDate)
     var currentArray = [];
 
     var sortedData = dataByDate.sort((a, b) => {
@@ -103,21 +95,25 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     sortedData.map(i=>{
-      currentArray.push([i.date, i.confirmed, i.death]);
+      currentArray.push([i.date, i[type]]);
     });
 
     return currentArray;
   }
 
 
-  function drawParByDate(theData, id, color) {
-    var dateSet = getCountryData(theData);
-    console.log(dateSet)
+  function drawParByDate(theData, id, color, type) {
+    var dateSet = getCountryData(theData, type);
+    // console.log(dateSet)
     var data = new google.visualization.DataTable();
 
     var options = {
+      backgroundColor: {
+        fill: '#242424'
+      },
+      pointSize: 4,
       'title': "Data",
-      colors: [colors.dark, colors.danger],
+      colors: [color],
       animation:{
         duration: 500,
         startup: true,
@@ -125,31 +121,31 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       legend: {
         position: 'top', 
-        textStyle: {color: color, fontSize: 16, bold: true}
+        textStyle: {color: 'white', fontSize: 16, bold: true}
       },
       chartArea:{left:50,top:40,right:40,bottom:40},
       vAxis: {
         textStyle: {
-          color: color,
+          color: colors.light,
           fontSize: '14',
         },
-        baselineColor: colors.dark,
+        baselineColor: colors.lighter,
         gridlines: {color: colors.lighter, minSpacing: 40}
       },
       hAxis: {
         textStyle: {
-          color: color,
+          color: colors.light,
           fontSize: '14',
         },
         format: 'MMM d',
-        baselineColor: colors.dark,
+        baselineColor: colors.lighter,
         gridlines: {color: colors.lighter, minSpacing: 40}
       },
     };
 
     data.addColumn('string', 'Date');
-    data.addColumn('number', 'Confirmed');
-    data.addColumn('number', "Deceased");
+    data.addColumn('number', type.toUpperCase());
+    // data.addColumn('number', "Deceased");
 
     data.addRows(dateSet);
 
@@ -284,16 +280,23 @@ document.addEventListener('DOMContentLoaded', () => {
     allCountryBtns.forEach(function(element){
       element.addEventListener('click', function(e) {
         document.querySelector('.modal').classList.add('is-active');
+        document.getElementById('country_name').innerText = this.dataset.country;
         console.log('clicked ' + this.dataset.country + ' target ' + e.target)
-        document.getElementById('country_data').innerText = '';
+        document.getElementById('country_data_confirmed').innerText = '';
+        document.getElementById('country_data_death').innerText = '';
+        document.getElementById('country_data_recovered').innerText = '';
         var currentCountry = this.dataset.country;
         var currentData = httpGet('output/' + currentCountry + '.json');
         console.log(currentData[0]);
-        drawParByDate(currentData[0], 'country_data', colors.dark);
+        drawParByDate(currentData[0], 'country_data_confirmed', colors.light, 'confirmed');
+        drawParByDate(currentData[0], 'country_data_death', colors.danger, 'death');
+        drawParByDate(currentData[0], 'country_data_recovered', colors.success, 'recovered');
       })
     });
 
-    drawChart(allData, 'confirmed', 'chart_div1', colors.dark);
-    drawChart(allData, 'death', 'chart_div2', colors.danger);
+  
+
+    // drawChart(allData, 'confirmed', 'chart_div1', colors.dark);
+    // drawChart(allData, 'death', 'chart_div2', colors.danger);
   }
 });

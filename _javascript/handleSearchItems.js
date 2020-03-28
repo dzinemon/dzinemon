@@ -11,7 +11,7 @@ function getSearchHelpText() {
     } else {
       helpText.innerText = `${allItems.length} countries found`
     }
-  }, 200)
+  }, 100)
   
 }
 
