@@ -50,12 +50,12 @@ document.addEventListener('DOMContentLoaded', () => {
   var generateTableItem = function(item) {
     return (`
       <tr>
-        <td class="td-d country he-opac hoverable" style="min-width: 160px;" data-country="${item.country}">${item.country}</td>
-        <td width="146" class="td-d confirmed">${item.confirmed}</td>
-        <td width="146" class="td-d death has-text-danger">${item.death}</td>
-        <td width="146" class="td-p has-text-danger">${getPercentage(item.death, item.confirmed)}</td>
+        <td class="td-c country he-opac hoverable" style="min-width: 160px;" data-country="${item.country}">${item.country}</td>
+        <td class="td-d confirmed">${item.confirmed}</td>
+        <td class="td-d death has-text-danger">${item.death}</td>
+        <td class="td-p has-text-danger">${getPercentage(item.death, item.confirmed)}</td>
         <td width="150" class="td-d recovered has-text-success">${item.recovered}</td>
-        <td width="146" class="td-p has-text-success">${getPercentage(item.death, item.confirmed)}</td>  
+        <td class="td-p has-text-success">${getPercentage(item.death, item.confirmed)}</td>  
       </tr>
     `)
   };

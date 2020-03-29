@@ -1,5 +1,13 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>My first Bulma website</title>
+<title>{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="canonical" href="{{ site.url }}" />
 <link rel="stylesheet" href="css/main.css">
+<meta property="og:title" content="{{ site.title }}" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ site.url }}" />
+<meta property="og:image" content="" />
+<link rel="icon" href="favicon.png" type="image/png" sizes="32x32">

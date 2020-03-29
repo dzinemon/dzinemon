@@ -6982,6 +6982,9 @@ label.panel-block {
 .he-opac:hover {
   opacity: 0.8; }
 
+.td-c {
+  min-width: 146px; }
+
 #countries_body tr:nth-child(odd) {
   background-color: rgba(48, 48, 48, 0.5); }
 
