@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Covid19 Data
+title: Covid19 Data - Corona virus 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Codiv-19 Data website. Provide daily updates about confirmed cases, active, deceased and recovered for countries.
+  Codiv-19 Data website. Provide daily updates about corona virus situation in all countries including confirmed, active, deceased and recovered cases.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://covid19-data.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
