@@ -10,3 +10,36 @@
     opacity: 0.8;
   }
 }
+
+.he-hl {
+
+  &:hover {
+    background: #363636;
+  }
+}
+
+.he-tu {
+  position: relative;
+
+  &::after {
+    position: absolute;
+    display: block;
+    opacity: 0;
+    content: 'view charts 📈';
+    // font-size: 20px;
+    right: 6px;
+    top: 4px;
+    transform: translateX(20px);
+    
+  }
+  &:hover {
+
+    &:after {
+      opacity: 1;
+      transform: translateX(0px);
+      transition: all 200ms ease-in-out;
+    }
+    
+    
+  }
+}

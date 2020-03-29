@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 // 1. Import the initial variables
 @import "../node_modules/bulma/sass/utilities/initial-variables";
@@ -6981,6 +6982,24 @@ label.panel-block {
 
 .he-opac:hover {
   opacity: 0.8; }
+
+.he-hl:hover {
+  background: #363636; }
+
+.he-tu {
+  position: relative; }
+  .he-tu::after {
+    position: absolute;
+    display: block;
+    opacity: 0;
+    content: 'view charts 📈';
+    right: 6px;
+    top: 4px;
+    transform: translateX(20px); }
+  .he-tu:hover:after {
+    opacity: 1;
+    transform: translateX(0px);
+    transition: all 200ms ease-in-out; }
 
 .td-c {
   min-width: 146px; }
