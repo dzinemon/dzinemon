@@ -1,0 +1,27 @@
+[
+    {
+        "country": "Anguilla",
+        "byDate": [
+            {
+                "date": "March 27, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 28, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 29, 2020",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 30, 2020",
+                "confirmed": 2,
+                "death": 0
+            }
+        ]
+    }
+]

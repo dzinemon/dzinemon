@@ -126,6 +126,31 @@
                 "date": "March 25, 2020",
                 "confirmed": 552,
                 "death": 35
+            },
+            {
+                "date": "March 26, 2020",
+                "confirmed": 636,
+                "death": 38
+            },
+            {
+                "date": "March 27, 2020",
+                "confirmed": 707,
+                "death": 45
+            },
+            {
+                "date": "March 28, 2020",
+                "confirmed": 803,
+                "death": 54
+            },
+            {
+                "date": "March 29, 2020",
+                "confirmed": 1075,
+                "death": 68
+            },
+            {
+                "date": "March 30, 2020",
+                "confirmed": 1418,
+                "death": 71
             }
         ]
     }
