@@ -1,0 +1,14 @@
+---
+---
+
+/* TEAM */
+	Developer: Sasha Alehin
+	Contact: sasha.alehin [at] humanstxt.org
+  Github: https://github.com/sashaalehin
+	From: Kyiv, Ukraine
+
+	Developer: Andrii Sharapatov
+	Contact: andriisharapatov [at] gmail.com
+	Twitter: @andriisha
+  Github: https://github.com/dzinemon
+	From: Kyiv, Ukraine
