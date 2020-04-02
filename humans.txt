@@ -3,7 +3,7 @@
 
 /* TEAM */
 	Developer: Sasha Alehin
-	Contact: sasha.alehin [at] humanstxt.org
+	Contact: sasha.alehin [at] gmail.com
   Github: https://github.com/sashaalehin
 	From: Kyiv, Ukraine
 
