@@ -19,3 +19,9 @@
 table td:nth-child(odd), table th:nth-child(odd) {
   background-color: rgba($color: #1f1f1f23, $alpha: 0.9);
 }
+
+.table {
+  th {
+      white-space: nowrap !important;
+  }
+}
