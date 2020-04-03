@@ -1,0 +1,12 @@
+[
+    {
+        "country": "Botswana",
+        "byDate": [
+            {
+                "date": "April 01, 2020",
+                "confirmed": 3,
+                "death": 0
+            }
+        ]
+    }
+]

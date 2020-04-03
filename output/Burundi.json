@@ -1,0 +1,12 @@
+[
+    {
+        "country": "Burundi",
+        "byDate": [
+            {
+                "date": "April 01, 2020",
+                "confirmed": 2,
+                "death": 0
+            }
+        ]
+    }
+]
