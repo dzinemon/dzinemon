@@ -3,14 +3,46 @@
         "country": "Northern Mariana Islands (Commonwealth of the)",
         "byDate": [
             {
+                "date": "March 29, 2020",
+                "timestamp": "1585440000",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
+                "date": "March 30, 2020",
+                "timestamp": "1585526400",
+                "confirmed": 2,
+                "death": 0
+            },
+            {
                 "date": "March 31, 2020",
+                "timestamp": "1585612800",
                 "confirmed": 2,
                 "death": 0
             },
             {
                 "date": "April 01, 2020",
+                "timestamp": "1585699200",
                 "confirmed": 2,
                 "death": 0
+            },
+            {
+                "date": "April 02, 2020",
+                "timestamp": "1585785600",
+                "confirmed": 6,
+                "death": 0
+            },
+            {
+                "date": "April 03, 2020",
+                "timestamp": "1585872000",
+                "confirmed": 8,
+                "death": 1
+            },
+            {
+                "date": "April 04, 2020",
+                "timestamp": "1585958400",
+                "confirmed": 8,
+                "death": 1
             }
         ]
     }

@@ -4,162 +4,212 @@
         "byDate": [
             {
                 "date": "March 01, 2020",
+                "timestamp": "1583020800",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 02, 2020",
+                "timestamp": "1583107200",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 03, 2020",
+                "timestamp": "1583193600",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 04, 2020",
+                "timestamp": "1583280000",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 05, 2020",
+                "timestamp": "1583366400",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 06, 2020",
+                "timestamp": "1583452800",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 07, 2020",
+                "timestamp": "1583539200",
                 "confirmed": 1,
                 "death": 0
             },
             {
                 "date": "March 08, 2020",
+                "timestamp": "1583625600",
                 "confirmed": 2,
                 "death": 0
             },
             {
                 "date": "March 09, 2020",
+                "timestamp": "1583712000",
                 "confirmed": 2,
                 "death": 0
             },
             {
                 "date": "March 10, 2020",
+                "timestamp": "1583798400",
                 "confirmed": 2,
                 "death": 0
             },
             {
                 "date": "March 11, 2020",
+                "timestamp": "1583884800",
                 "confirmed": 3,
                 "death": 0
             },
             {
                 "date": "March 12, 2020",
+                "timestamp": "1583971200",
                 "confirmed": 3,
                 "death": 0
             },
             {
                 "date": "March 13, 2020",
+                "timestamp": "1584057600",
                 "confirmed": 5,
                 "death": 0
             },
             {
                 "date": "March 14, 2020",
+                "timestamp": "1584144000",
                 "confirmed": 7,
                 "death": 0
             },
             {
                 "date": "March 15, 2020",
+                "timestamp": "1584230400",
                 "confirmed": 7,
                 "death": 0
             },
             {
                 "date": "March 16, 2020",
+                "timestamp": "1584316800",
                 "confirmed": 12,
                 "death": 0
             },
             {
                 "date": "March 17, 2020",
+                "timestamp": "1584403200",
                 "confirmed": 24,
                 "death": 0
             },
             {
                 "date": "March 18, 2020",
+                "timestamp": "1584489600",
                 "confirmed": 24,
                 "death": 0
             },
             {
                 "date": "March 19, 2020",
+                "timestamp": "1584576000",
                 "confirmed": 35,
                 "death": 0
             },
             {
                 "date": "March 20, 2020",
+                "timestamp": "1584662400",
                 "confirmed": 47,
                 "death": 0
             },
             {
                 "date": "March 21, 2020",
+                "timestamp": "1584748800",
                 "confirmed": 51,
                 "death": 0
             },
             {
                 "date": "March 22, 2020",
+                "timestamp": "1584835200",
                 "confirmed": 53,
                 "death": 0
             },
             {
                 "date": "March 23, 2020",
+                "timestamp": "1584921600",
                 "confirmed": 84,
                 "death": 0
             },
             {
                 "date": "March 24, 2020",
+                "timestamp": "1585008000",
                 "confirmed": 87,
                 "death": 0
             },
             {
                 "date": "March 25, 2020",
+                "timestamp": "1585094400",
                 "confirmed": 91,
                 "death": 0
             },
             {
                 "date": "March 26, 2020",
+                "timestamp": "1585180800",
                 "confirmed": 96,
                 "death": 0
             },
             {
                 "date": "March 27, 2020",
+                "timestamp": "1585267200",
                 "confirmed": 98,
                 "death": 0
             },
             {
                 "date": "March 28, 2020",
+                "timestamp": "1585353600",
                 "confirmed": 104,
                 "death": 0
             },
             {
                 "date": "March 29, 2020",
+                "timestamp": "1585440000",
                 "confirmed": 102,
                 "death": 0
             },
             {
                 "date": "March 30, 2020",
+                "timestamp": "1585526400",
                 "confirmed": 103,
                 "death": 0
             },
             {
                 "date": "March 31, 2020",
+                "timestamp": "1585612800",
                 "confirmed": 107,
                 "death": 0
             },
             {
                 "date": "April 01, 2020",
+                "timestamp": "1585699200",
                 "confirmed": 109,
+                "death": 0
+            },
+            {
+                "date": "April 02, 2020",
+                "timestamp": "1585785600",
+                "confirmed": 109,
+                "death": 0
+            },
+            {
+                "date": "April 03, 2020",
+                "timestamp": "1585872000",
+                "confirmed": 110,
+                "death": 0
+            },
+            {
+                "date": "April 04, 2020",
+                "timestamp": "1585958400",
+                "confirmed": 114,
                 "death": 0
             }
         ]

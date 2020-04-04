@@ -4,8 +4,27 @@
         "byDate": [
             {
                 "date": "April 01, 2020",
+                "timestamp": "1585699200",
                 "confirmed": 3,
                 "death": 0
+            },
+            {
+                "date": "April 02, 2020",
+                "timestamp": "1585785600",
+                "confirmed": 3,
+                "death": 1
+            },
+            {
+                "date": "April 03, 2020",
+                "timestamp": "1585872000",
+                "confirmed": 4,
+                "death": 1
+            },
+            {
+                "date": "April 04, 2020",
+                "timestamp": "1585958400",
+                "confirmed": 4,
+                "death": 1
             }
         ]
     }

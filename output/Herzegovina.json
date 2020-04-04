@@ -4,6 +4,7 @@
         "byDate": [
             {
                 "date": "March 20, 2020",
+                "timestamp": "1584662400",
                 "confirmed": 44,
                 "death": 0
             }
