@@ -9,7 +9,7 @@ var colors = {
 }
 
 function formatBigNums(num) {
-  return ('' + num).replace(/\D/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  return ('' + num).replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
 document.addEventListener('DOMContentLoaded', () => {
