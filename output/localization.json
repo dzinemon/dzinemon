@@ -1,10 +1,1322 @@
 [
     {
         "id": "USA",
-        "english": "USA"
+        "english": "USA",
+        "ukrainian": "США",
+        "russian": "США"
+    },
+    {
+        "id": "Italy",
+        "english": "Italy",
+        "ukrainian": "",
+        "russian": "Италия"
+    },
+    {
+        "id": "China",
+        "english": "China",
+        "ukrainian": "",
+        "russian": "Китай"
+    },
+    {
+        "id": "Republic of Korea",
+        "english": "Republic of Korea",
+        "ukrainian": "",
+        "russian": "Южная Корея"
+    },
+    {
+        "id": "Japan",
+        "english": "Japan",
+        "ukrainian": "",
+        "russian": "Япония"
+    },
+    {
+        "id": "Singapore",
+        "english": "Singapore",
+        "ukrainian": "",
+        "russian": "Сингапур"
+    },
+    {
+        "id": "Australia",
+        "english": "Australia",
+        "ukrainian": "",
+        "russian": "Австралия"
+    },
+    {
+        "id": "Malaysia",
+        "english": "Malaysia",
+        "ukrainian": "",
+        "russian": "Малайзия"
+    },
+    {
+        "id": "Viet Nam",
+        "english": "Viet Nam",
+        "ukrainian": "",
+        "russian": "Вьетнам"
+    },
+    {
+        "id": "Philippines",
+        "english": "Philippines",
+        "ukrainian": "",
+        "russian": "Филлипины"
+    },
+    {
+        "id": "Cambodia",
+        "english": "Cambodia",
+        "ukrainian": "",
+        "russian": "Камбоджия"
+    },
+    {
+        "id": "New Zealand",
+        "english": "New Zealand",
+        "ukrainian": "",
+        "russian": "Новая Зеландия"
+    },
+    {
+        "id": "France",
+        "english": "France",
+        "ukrainian": "",
+        "russian": "Франция"
+    },
+    {
+        "id": "Germany",
+        "english": "Germany",
+        "ukrainian": "",
+        "russian": "Германия"
+    },
+    {
+        "id": "Spain",
+        "english": "Spain",
+        "ukrainian": "",
+        "russian": "Испания"
+    },
+    {
+        "id": "The United Kingdom",
+        "english": "The United Kingdom",
+        "ukrainian": "",
+        "russian": "Англия"
+    },
+    {
+        "id": "Switzerland",
+        "english": "Switzerland",
+        "ukrainian": "",
+        "russian": "Швейцария"
+    },
+    {
+        "id": "Norway",
+        "english": "Norway",
+        "ukrainian": "",
+        "russian": "Норвегия"
+    },
+    {
+        "id": "Sweden",
+        "english": "Sweden",
+        "ukrainian": "",
+        "russian": "Швеция"
+    },
+    {
+        "id": "Austria",
+        "english": "Austria",
+        "ukrainian": "",
+        "russian": "Австрия"
+    },
+    {
+        "id": "Croatia",
+        "english": "Croatia",
+        "ukrainian": "",
+        "russian": "Хорватия"
+    },
+    {
+        "id": "Israel",
+        "english": "Israel",
+        "ukrainian": "",
+        "russian": "Израиль"
+    },
+    {
+        "id": "Netherlands",
+        "english": "Netherlands",
+        "ukrainian": "",
+        "russian": "Нидерланды"
+    },
+    {
+        "id": "Azerbaijan",
+        "english": "Azerbaijan",
+        "ukrainian": "",
+        "russian": "Азейрбайджан"
+    },
+    {
+        "id": "Denmark",
+        "english": "Denmark",
+        "ukrainian": "",
+        "russian": "Дания"
+    },
+    {
+        "id": "Georgia",
+        "english": "Georgia",
+        "ukrainian": "",
+        "russian": "Грузия"
+    },
+    {
+        "id": "Greece",
+        "english": "Greece",
+        "ukrainian": "",
+        "russian": "Греция"
+    },
+    {
+        "id": "Romania",
+        "english": "Romania",
+        "ukrainian": "",
+        "russian": "Румыния"
+    },
+    {
+        "id": "Finland",
+        "english": "Finland",
+        "ukrainian": "",
+        "russian": "Финляндия"
+    },
+    {
+        "id": "Russian Federation",
+        "english": "Russian Federation",
+        "ukrainian": "",
+        "russian": "Россия"
+    },
+    {
+        "id": "Belarus",
+        "english": "Belarus",
+        "ukrainian": "",
+        "russian": "Беларусь"
+    },
+    {
+        "id": "Belgium",
+        "english": "Belgium",
+        "ukrainian": "",
+        "russian": "Бельгия"
+    },
+    {
+        "id": "Estonia",
+        "english": "Estonia",
+        "ukrainian": "",
+        "russian": "Эстония"
+    },
+    {
+        "id": "Ireland",
+        "english": "Ireland",
+        "ukrainian": "",
+        "russian": "Ирландия"
+    },
+    {
+        "id": "Lithuania",
+        "english": "Lithuania",
+        "ukrainian": "",
+        "russian": "Литва"
+    },
+    {
+        "id": "Monaco",
+        "english": "Monaco",
+        "ukrainian": "",
+        "russian": "Монако"
+    },
+    {
+        "id": "North Macedonia",
+        "english": "North Macedonia",
+        "ukrainian": "",
+        "russian": "Македония"
+    },
+    {
+        "id": "San Marino",
+        "english": "San Marino",
+        "ukrainian": "",
+        "russian": "Сан-Марино"
+    },
+    {
+        "id": "Thailand",
+        "english": "Thailand",
+        "ukrainian": "",
+        "russian": "Тайланд"
+    },
+    {
+        "id": "India",
+        "english": "India",
+        "ukrainian": "",
+        "russian": "Индия"
+    },
+    {
+        "id": "Nepal",
+        "english": "Nepal",
+        "ukrainian": "",
+        "russian": "Непал"
+    },
+    {
+        "id": "Sri Lanka",
+        "english": "Sri Lanka",
+        "ukrainian": "",
+        "russian": "Шри Ланка"
+    },
+    {
+        "id": "Iran (Islamic Republic of)",
+        "english": "Iran (Islamic Republic of)",
+        "ukrainian": "",
+        "russian": "Иран"
+    },
+    {
+        "id": "Kuwait",
+        "english": "Kuwait",
+        "ukrainian": "",
+        "russian": "Кувейт"
+    },
+    {
+        "id": "Bahrain",
+        "english": "Bahrain",
+        "ukrainian": "",
+        "russian": "Бахрейн"
+    },
+    {
+        "id": "United Arab Emirates",
+        "english": "United Arab Emirates",
+        "ukrainian": "",
+        "russian": "ОАЭ"
+    },
+    {
+        "id": "Iraq",
+        "english": "Iraq",
+        "ukrainian": "",
+        "russian": "Ирак"
+    },
+    {
+        "id": "Oman",
+        "english": "Oman",
+        "ukrainian": "",
+        "russian": "Оман"
+    },
+    {
+        "id": "Pakistan",
+        "english": "Pakistan",
+        "ukrainian": "",
+        "russian": "Пакистан"
+    },
+    {
+        "id": "Lebanon",
+        "english": "Lebanon",
+        "ukrainian": "",
+        "russian": "Ливан"
+    },
+    {
+        "id": "Afghanistan",
+        "english": "Afghanistan",
+        "ukrainian": "",
+        "russian": "Афганистан"
+    },
+    {
+        "id": "Egypt",
+        "english": "Egypt",
+        "ukrainian": "",
+        "russian": "Египет"
+    },
+    {
+        "id": "Qatar",
+        "english": "Qatar",
+        "ukrainian": "",
+        "russian": "Катар"
+    },
+    {
+        "id": "Canada",
+        "english": "Canada",
+        "ukrainian": "",
+        "russian": "Канада"
+    },
+    {
+        "id": "Brazil",
+        "english": "Brazil",
+        "ukrainian": "",
+        "russian": "Бразилия"
+    },
+    {
+        "id": "Mexico",
+        "english": "Mexico",
+        "ukrainian": "",
+        "russian": "Мексика"
+    },
+    {
+        "id": "Ecuador",
+        "english": "Ecuador",
+        "ukrainian": "",
+        "russian": "Эквадор"
+    },
+    {
+        "id": "Algeria",
+        "english": "Algeria",
+        "ukrainian": "",
+        "russian": "Алжир"
+    },
+    {
+        "id": "Nigeria",
+        "english": "Nigeria",
+        "ukrainian": "",
+        "russian": "Нигерия"
+    },
+    {
+        "id": "Czechia",
+        "english": "Czechia",
+        "ukrainian": "",
+        "russian": "Чехия"
+    },
+    {
+        "id": "Iceland",
+        "english": "Iceland",
+        "ukrainian": "",
+        "russian": "Исландия"
+    },
+    {
+        "id": "Armenia",
+        "english": "Armenia",
+        "ukrainian": "",
+        "russian": "Армения"
+    },
+    {
+        "id": "Luxembourg",
+        "english": "Luxembourg",
+        "ukrainian": "",
+        "russian": "Люксембург"
+    },
+    {
+        "id": "Indonesia",
+        "english": "Indonesia",
+        "ukrainian": "",
+        "russian": "Индонезия"
+    },
+    {
+        "id": "Dominican Republic",
+        "english": "Dominican Republic",
+        "ukrainian": "",
+        "russian": "Доминиканская республика"
+    },
+    {
+        "id": "Portugal",
+        "english": "Portugal",
+        "ukrainian": "",
+        "russian": "Португалия"
+    },
+    {
+        "id": "Andorra",
+        "english": "Andorra",
+        "ukrainian": "",
+        "russian": "Андорра"
+    },
+    {
+        "id": "Latvia",
+        "english": "Latvia",
+        "ukrainian": "",
+        "russian": "Латвия"
+    },
+    {
+        "id": "Jordan",
+        "english": "Jordan",
+        "ukrainian": "",
+        "russian": "Иордания"
+    },
+    {
+        "id": "Morocco",
+        "english": "Morocco",
+        "ukrainian": "",
+        "russian": "Марокко"
+    },
+    {
+        "id": "Saudi Arabia",
+        "english": "Saudi Arabia",
+        "ukrainian": "",
+        "russian": "Саудовская Аравия"
+    },
+    {
+        "id": "Tunisia",
+        "english": "Tunisia",
+        "ukrainian": "",
+        "russian": "Тунис"
+    },
+    {
+        "id": "Senegal",
+        "english": "Senegal",
+        "ukrainian": "",
+        "russian": "Синегал"
+    },
+    {
+        "id": "Poland",
+        "english": "Poland",
+        "ukrainian": "",
+        "russian": "Польша"
+    },
+    {
+        "id": "Ukraine",
+        "english": "Ukraine",
+        "ukrainian": "",
+        "russian": "Украина"
+    },
+    {
+        "id": "Argentina",
+        "english": "Argentina",
+        "ukrainian": "",
+        "russian": "Аргентина"
+    },
+    {
+        "id": "Chile",
+        "english": "Chile",
+        "ukrainian": "",
+        "russian": "Чили"
+    },
+    {
+        "id": "Bosnia and Herzegovina",
+        "english": "Bosnia and Herzegovina",
+        "ukrainian": "",
+        "russian": "Босния и Герцеговина"
+    },
+    {
+        "id": "Hungary",
+        "english": "Hungary",
+        "ukrainian": "",
+        "russian": "Венгрия"
+    },
+    {
+        "id": "Slovenia",
+        "english": "Slovenia",
+        "ukrainian": "",
+        "russian": "Словения"
+    },
+    {
+        "id": "Liechtenstein",
+        "english": "Liechtenstein",
+        "ukrainian": "",
+        "russian": "Лихтенштейн"
+    },
+    {
+        "id": "Gibraltar",
+        "english": "Gibraltar",
+        "ukrainian": "",
+        "russian": "Гибралтар"
+    },
+    {
+        "id": "occupied Palestinian territory",
+        "english": "occupied Palestinian territory",
+        "ukrainian": "",
+        "russian": "Палестинские территории"
+    },
+    {
+        "id": "Saint Martin",
+        "english": "Saint Martin",
+        "ukrainian": "",
+        "russian": "Сен-Мартен"
+    },
+    {
+        "id": "Saint Barthelemy",
+        "english": "Saint Barthelemy",
+        "ukrainian": "",
+        "russian": "Сен-Бартелеми"
+    },
+    {
+        "id": "Serbia",
+        "english": "Serbia",
+        "ukrainian": "",
+        "russian": "Сербия"
+    },
+    {
+        "id": "Bhutan",
+        "english": "Bhutan",
+        "ukrainian": "",
+        "russian": "Бутан"
+    },
+    {
+        "id": "Cameroon",
+        "english": "Cameroon",
+        "ukrainian": "",
+        "russian": "Камерун"
+    },
+    {
+        "id": "South Africa",
+        "english": "South Africa",
+        "ukrainian": "",
+        "russian": "Южная Африка"
+    },
+    {
+        "id": "Holy See",
+        "english": "Holy See",
+        "ukrainian": "",
+        "russian": "Папский престол"
+    },
+    {
+        "id": "Slovakia",
+        "english": "Slovakia",
+        "ukrainian": "",
+        "russian": "Словакия"
+    },
+    {
+        "id": "Colombia",
+        "english": "Colombia",
+        "ukrainian": "",
+        "russian": "Колумбия"
+    },
+    {
+        "id": "Peru",
+        "english": "Peru",
+        "ukrainian": "",
+        "russian": "Перу"
+    },
+    {
+        "id": "Togo",
+        "english": "Togo",
+        "ukrainian": "",
+        "russian": "Того"
+    },
+    {
+        "id": "Malta",
+        "english": "Malta",
+        "ukrainian": "",
+        "russian": "Мальта"
+    },
+    {
+        "id": "Bulgaria",
+        "english": "Bulgaria",
+        "ukrainian": "",
+        "russian": "Болгария"
+    },
+    {
+        "id": "Republic of Moldova",
+        "english": "Republic of Moldova",
+        "ukrainian": "",
+        "russian": "Молдавия"
+    },
+    {
+        "id": "Faroe Islands",
+        "english": "Faroe Islands",
+        "ukrainian": "",
+        "russian": "Фарерские острова"
+    },
+    {
+        "id": "Maldives",
+        "english": "Maldives",
+        "ukrainian": "",
+        "russian": "Мальдивы"
+    },
+    {
+        "id": "Costa Rica",
+        "english": "Costa Rica",
+        "ukrainian": "",
+        "russian": "Коста-Рика"
+    },
+    {
+        "id": "French Guiana",
+        "english": "French Guiana",
+        "ukrainian": "",
+        "russian": "Французская Гвиана"
+    },
+    {
+        "id": "Martinique",
+        "english": "Martinique",
+        "ukrainian": "",
+        "russian": "Мартиника"
+    },
+    {
+        "id": "Albania",
+        "english": "Albania",
+        "ukrainian": "",
+        "russian": "Албания"
+    },
+    {
+        "id": "Bangladesh",
+        "english": "Bangladesh",
+        "ukrainian": "",
+        "russian": "Бангадеш"
+    },
+    {
+        "id": "Paraguay",
+        "english": "Paraguay",
+        "ukrainian": "",
+        "russian": "Парагвай"
+    },
+    {
+        "id": "Brunei Darussalam",
+        "english": "Brunei Darussalam",
+        "ukrainian": "",
+        "russian": "Бруней"
+    },
+    {
+        "id": "Mongolia",
+        "english": "Mongolia",
+        "ukrainian": "",
+        "russian": "Монголия"
+    },
+    {
+        "id": "Cyprus",
+        "english": "Cyprus",
+        "ukrainian": "",
+        "russian": "Кипр"
+    },
+    {
+        "id": "Guernsey",
+        "english": "Guernsey",
+        "ukrainian": "",
+        "russian": "Гернси"
+    },
+    {
+        "id": "Panama",
+        "english": "Panama",
+        "ukrainian": "",
+        "russian": "Панама"
+    },
+    {
+        "id": "Bolivia (Plurinational State of)",
+        "english": "Bolivia (Plurinational State of)",
+        "ukrainian": "",
+        "russian": "Боливия"
+    },
+    {
+        "id": "Jamaica",
+        "english": "Jamaica",
+        "ukrainian": "",
+        "russian": "Ямайка"
+    },
+    {
+        "id": "Burkina Faso",
+        "english": "Burkina Faso",
+        "ukrainian": "",
+        "russian": "Буркина-Фасо"
+    },
+    {
+        "id": "Democratic Republic of the Congo",
+        "english": "Democratic Republic of the Congo",
+        "ukrainian": "",
+        "russian": "ДР Конго"
+    },
+    {
+        "id": "French Polynesia",
+        "english": "French Polynesia",
+        "ukrainian": "",
+        "russian": "Французская Полинезия"
+    },
+    {
+        "id": "Turkey",
+        "english": "Turkey",
+        "ukrainian": "",
+        "russian": "Турция"
+    },
+    {
+        "id": "Honduras",
+        "english": "Honduras",
+        "ukrainian": "",
+        "russian": "Гондурас"
+    },
+    {
+        "id": "Cote d Ivoire",
+        "english": "Cote d Ivoire",
+        "ukrainian": "",
+        "russian": "Кот-д'Ивуар"
+    },
+    {
+        "id": "Jersey",
+        "english": "Jersey",
+        "ukrainian": "",
+        "russian": "Джерси"
+    },
+    {
+        "id": "Cuba",
+        "english": "Cuba",
+        "ukrainian": "",
+        "russian": "Куба"
+    },
+    {
+        "id": "Guyana",
+        "english": "Guyana",
+        "ukrainian": "",
+        "russian": "Гайана"
+    },
+    {
+        "id": "Saint Vincent and the Grenadines",
+        "english": "Saint Vincent and the Grenadines",
+        "ukrainian": "",
+        "russian": "Сент-Винсент и Гренадины"
+    },
+    {
+        "id": "Sudan",
+        "english": "Sudan",
+        "ukrainian": "",
+        "russian": "Судан"
+    },
+    {
+        "id": "Puerto Rico",
+        "english": "Puerto Rico",
+        "ukrainian": "",
+        "russian": "Пуэрто-Рико"
+    },
+    {
+        "id": "Venezuela (Bolivarian Republic of)",
+        "english": "Venezuela (Bolivarian Republic of)",
+        "ukrainian": "",
+        "russian": "Венесуэла"
+    },
+    {
+        "id": "Antigua and Barbuda",
+        "english": "Antigua and Barbuda",
+        "ukrainian": "",
+        "russian": "Антигуа и Барбуда"
+    },
+    {
+        "id": "Guadeloupe",
+        "english": "Guadeloupe",
+        "ukrainian": "",
+        "russian": "Гваделупа"
+    },
+    {
+        "id": "Trinidad and Tobago",
+        "english": "Trinidad and Tobago",
+        "ukrainian": "",
+        "russian": "Тринида́д и Тоба́го"
+    },
+    {
+        "id": "Cayman Islands",
+        "english": "Cayman Islands",
+        "ukrainian": "",
+        "russian": "Острова Тайман"
+    },
+    {
+        "id": "Ethiopia",
+        "english": "Ethiopia",
+        "ukrainian": "",
+        "russian": "Эфиопия"
+    },
+    {
+        "id": "Gabon",
+        "english": "Gabon",
+        "ukrainian": "",
+        "russian": "Габон"
+    },
+    {
+        "id": "Ghana",
+        "english": "Ghana",
+        "ukrainian": "",
+        "russian": "Гана"
+    },
+    {
+        "id": "Guinea",
+        "english": "Guinea",
+        "ukrainian": "",
+        "russian": "Гвинея"
+    },
+    {
+        "id": "Kenya",
+        "english": "Kenya",
+        "ukrainian": "",
+        "russian": "Кения"
+    },
+    {
+        "id": "Reunion",
+        "english": "Reunion",
+        "ukrainian": "",
+        "russian": "Реюньон"
+    },
+    {
+        "id": "Kazakhstan",
+        "english": "Kazakhstan",
+        "ukrainian": "",
+        "russian": "Казахстан"
+    },
+    {
+        "id": "Curacao",
+        "english": "Curacao",
+        "ukrainian": "",
+        "russian": "Кюрасао"
+    },
+    {
+        "id": "Namibia",
+        "english": "Namibia",
+        "ukrainian": "",
+        "russian": "Намибия"
+    },
+    {
+        "id": "Central African Republic",
+        "english": "Central African Republic",
+        "ukrainian": "",
+        "russian": "Центральноафрика́нская Респу́блика"
+    },
+    {
+        "id": "Congo",
+        "english": "Congo",
+        "ukrainian": "",
+        "russian": "Конго"
+    },
+    {
+        "id": "Equatorial Guinea",
+        "english": "Equatorial Guinea",
+        "ukrainian": "",
+        "russian": "Респу́блика Экваториа́льная Гвине́я"
+    },
+    {
+        "id": "Eswatini",
+        "english": "Eswatini",
+        "ukrainian": "",
+        "russian": "Эсватини"
+    },
+    {
+        "id": "Mauritania",
+        "english": "Mauritania",
+        "ukrainian": "",
+        "russian": "Мавритания"
+    },
+    {
+        "id": "Mayotte",
+        "english": "Mayotte",
+        "ukrainian": "",
+        "russian": "Майотта"
+    },
+    {
+        "id": "Uzbekistan",
+        "english": "Uzbekistan",
+        "ukrainian": "",
+        "russian": "Узбекистан"
+    },
+    {
+        "id": "Uruguay",
+        "english": "Uruguay",
+        "ukrainian": "",
+        "russian": "Уругвай"
+    },
+    {
+        "id": "Guatemala",
+        "english": "Guatemala",
+        "ukrainian": "",
+        "russian": "Гватемала"
+    },
+    {
+        "id": "Saint Lucia",
+        "english": "Saint Lucia",
+        "ukrainian": "",
+        "russian": "Сэнт-Люсия"
+    },
+    {
+        "id": "Suriname",
+        "english": "Suriname",
+        "ukrainian": "",
+        "russian": "Суринам"
+    },
+    {
+        "id": "Rwanda",
+        "english": "Rwanda",
+        "ukrainian": "",
+        "russian": "Руанда"
+    },
+    {
+        "id": "Seychelles",
+        "english": "Seychelles",
+        "ukrainian": "",
+        "russian": "Сейшелы"
+    },
+    {
+        "id": "Guam",
+        "english": "Guam",
+        "ukrainian": "",
+        "russian": "Гуам"
+    },
+    {
+        "id": "Somalia",
+        "english": "Somalia",
+        "ukrainian": "",
+        "russian": "Сомали"
+    },
+    {
+        "id": "Bahamas",
+        "english": "Bahamas",
+        "ukrainian": "",
+        "russian": "Багамы"
+    },
+    {
+        "id": "Grenadines",
+        "english": "Grenadines",
+        "ukrainian": "",
+        "russian": "Гренадины"
+    },
+    {
+        "id": "Aruba",
+        "english": "Aruba",
+        "ukrainian": "",
+        "russian": "Аруба"
+    },
+    {
+        "id": "Benin",
+        "english": "Benin",
+        "ukrainian": "",
+        "russian": "Бенин"
+    },
+    {
+        "id": "Liberia",
+        "english": "Liberia",
+        "ukrainian": "",
+        "russian": "Либерия"
+    },
+    {
+        "id": "United Republic of Tanzania",
+        "english": "United Republic of Tanzania",
+        "ukrainian": "",
+        "russian": "Танзания"
+    },
+    {
+        "id": "Montenegro",
+        "english": "Montenegro",
+        "ukrainian": "",
+        "russian": "Черногория"
+    },
+    {
+        "id": "Kyrgyzstan",
+        "english": "Kyrgyzstan",
+        "ukrainian": "",
+        "russian": "Киргистан"
+    },
+    {
+        "id": "Greenland",
+        "english": "Greenland",
+        "ukrainian": "",
+        "russian": "Гренландия"
+    },
+    {
+        "id": "Djibouti",
+        "english": "Djibouti",
+        "ukrainian": "",
+        "russian": "Джибути"
+    },
+    {
+        "id": "Barbados",
+        "english": "Barbados",
+        "ukrainian": "",
+        "russian": "Барбадос"
+    },
+    {
+        "id": "Montserrat",
+        "english": "Montserrat",
+        "ukrainian": "",
+        "russian": "Монтсеррат"
+    },
+    {
+        "id": "Mauritius",
+        "english": "Mauritius",
+        "ukrainian": "",
+        "russian": "Маврикий"
+    },
+    {
+        "id": "Zambia",
+        "english": "Zambia",
+        "ukrainian": "",
+        "russian": "Замбия"
+    },
+    {
+        "id": "Gambia",
+        "english": "Gambia",
+        "ukrainian": "",
+        "russian": "Гамбия"
+    },
+    {
+        "id": "Fiji",
+        "english": "Fiji",
+        "ukrainian": "",
+        "russian": "Фуджи"
+    },
+    {
+        "id": "New Caledonia",
+        "english": "New Caledonia",
+        "ukrainian": "",
+        "russian": "Новая Каледония"
+    },
+    {
+        "id": "Bermuda",
+        "english": "Bermuda",
+        "ukrainian": "",
+        "russian": "Бермуды"
+    },
+    {
+        "id": "El Salvador",
+        "english": "El Salvador",
+        "ukrainian": "",
+        "russian": "Сальвадор"
+    },
+    {
+        "id": "Nicaragua",
+        "english": "Nicaragua",
+        "ukrainian": "",
+        "russian": "Никарагуа"
+    },
+    {
+        "id": "United States Virgin Islands",
+        "english": "United States Virgin Islands",
+        "ukrainian": "",
+        "russian": "Американские Виргинские острова"
+    },
+    {
+        "id": "Sint Maarten",
+        "english": "Sint Maarten",
+        "ukrainian": "",
+        "russian": "Синт-Мартен"
+    },
+    {
+        "id": "Chad",
+        "english": "Chad",
+        "ukrainian": "",
+        "russian": "Чад"
+    },
+    {
+        "id": "Niger",
+        "english": "Niger",
+        "ukrainian": "",
+        "russian": "Нигер"
+    },
+    {
+        "id": "Papua New Guinea",
+        "english": "Papua New Guinea",
+        "ukrainian": "",
+        "russian": "Папуа – Новая Гвинея"
+    },
+    {
+        "id": "Isle of Man",
+        "english": "Isle of Man",
+        "ukrainian": "",
+        "russian": "О́стров Мэн"
+    },
+    {
+        "id": "Timor-Leste",
+        "english": "Timor-Leste",
+        "ukrainian": "",
+        "russian": "Восточный Темор"
+    },
+    {
+        "id": "Haiti",
+        "english": "Haiti",
+        "ukrainian": "",
+        "russian": "Гаити"
+    },
+    {
+        "id": "Cabo Verde",
+        "english": "Cabo Verde",
+        "ukrainian": "",
+        "russian": "Кабо-Верде"
+    },
+    {
+        "id": "Zimbabwe",
+        "english": "Zimbabwe",
+        "ukrainian": "",
+        "russian": "Зимбабве"
+    },
+    {
+        "id": "Madagascar",
+        "english": "Madagascar",
+        "ukrainian": "",
+        "russian": "Мадагаскар"
+    },
+    {
+        "id": "Angola",
+        "english": "Angola",
+        "ukrainian": "",
+        "russian": "Ангола"
+    },
+    {
+        "id": "Eritrea",
+        "english": "Eritrea",
+        "ukrainian": "",
+        "russian": "Эритрея"
+    },
+    {
+        "id": "Uganda",
+        "english": "Uganda",
+        "ukrainian": "",
+        "russian": "Уганда"
+    },
+    {
+        "id": "Kosovo",
+        "english": "Kosovo",
+        "ukrainian": "",
+        "russian": "Косово"
+    },
+    {
+        "id": "Syrian Arab Republic",
+        "english": "Syrian Arab Republic",
+        "ukrainian": "",
+        "russian": "Сирия"
+    },
+    {
+        "id": "Grenada",
+        "english": "Grenada",
+        "ukrainian": "",
+        "russian": "Гренада"
+    },
+    {
+        "id": "Mozambique",
+        "english": "Mozambique",
+        "ukrainian": "",
+        "russian": "Мозамбик"
+    },
+    {
+        "id": "Myanmar",
+        "english": "Myanmar",
+        "ukrainian": "",
+        "russian": "Мьянма"
+    },
+    {
+        "id": "Belize",
+        "english": "Belize",
+        "ukrainian": "",
+        "russian": "Белиз"
+    },
+    {
+        "id": "Dominica",
+        "english": "Dominica",
+        "ukrainian": "",
+        "russian": "Доминика"
+    },
+    {
+        "id": "Turks and Caicos Islands",
+        "english": "Turks and Caicos Islands",
+        "ukrainian": "",
+        "russian": "Тёркс и Кайкос"
+    },
+    {
+        "id": "Lao Peoples Democratic Republic",
+        "english": "Lao Peoples Democratic Republic",
+        "ukrainian": "",
+        "russian": "Лаос"
+    },
+    {
+        "id": "Libya",
+        "english": "Libya",
+        "ukrainian": "",
+        "russian": "Ливия"
+    },
+    {
+        "id": "Saint Kitts and Nevis",
+        "english": "Saint Kitts and Nevis",
+        "ukrainian": "",
+        "russian": "Федерация Сент-Ки́тс и Не́вис"
+    },
+    {
+        "id": "Guinea-Bissau",
+        "english": "Guinea-Bissau",
+        "ukrainian": "",
+        "russian": "Гвинея-Бисау"
+    },
+    {
+        "id": "Mali",
+        "english": "Mali",
+        "ukrainian": "",
+        "russian": "Мали"
+    },
+    {
+        "id": "Anguilla",
+        "english": "Anguilla",
+        "ukrainian": "",
+        "russian": "Ангилья"
+    },
+    {
+        "id": "British Virgin Islands",
+        "english": "British Virgin Islands",
+        "ukrainian": "",
+        "russian": "Британские Виргинские острова"
+    },
+    {
+        "id": "Northern Mariana Islands (Commonwealth of the)",
+        "english": "Northern Mariana Islands (Commonwealth of the)",
+        "ukrainian": "",
+        "russian": "Се́верные Мариа́нские Острова́"
+    },
+    {
+        "id": "Botswana",
+        "english": "Botswana",
+        "ukrainian": "",
+        "russian": "Ботсвана"
+    },
+    {
+        "id": "Burundi",
+        "english": "Burundi",
+        "ukrainian": "",
+        "russian": "Бурунди"
+    },
+    {
+        "id": "Sierra Leone",
+        "english": "Sierra Leone",
+        "ukrainian": "",
+        "russian": "Сьерра_Леоне"
+    },
+    {
+        "id": "Hong Kong",
+        "english": "Hong Kong",
+        "ukrainian": "",
+        "russian": "Гонконг"
+    },
+    {
+        "id": "Taiwan",
+        "english": "Taiwan",
+        "ukrainian": "",
+        "russian": "Тайвань"
+    },
+    {
+        "id": "Channel Islands",
+        "english": "Channel Islands",
+        "ukrainian": "",
+        "russian": "Нормадские острова"
+    },
+    {
+        "id": "Macao",
+        "english": "Macao",
+        "ukrainian": "",
+        "russian": "Макао"
     },
     {
         "id": "Total_confirmed",
-        "english": "Total confirmed"
+        "english": "Total confirmed",
+        "ukrainian": "",
+        "russian": "Всего подтверждённых"
+    },
+    {
+        "id": "Total_active",
+        "english": "Total active",
+        "ukrainian": "",
+        "russian": "Всего активных"
+    },
+    {
+        "id": "Total_deceased",
+        "english": "Total deceased",
+        "ukrainian": "",
+        "russian": "Всего умерших"
+    },
+    {
+        "id": "Total_recovered",
+        "english": "Total recovered",
+        "ukrainian": "",
+        "russian": "Всего восстановшишхся"
+    },
+    {
+        "id": "Search by country name",
+        "english": "Search by country name",
+        "ukrainian": "",
+        "russian": "Искать по названию страны"
+    },
+    {
+        "id": "Country",
+        "english": "Country",
+        "ukrainian": "",
+        "russian": "Страна/регион"
+    },
+    {
+        "id": "Total_cases",
+        "english": "Total cases",
+        "ukrainian": "",
+        "russian": "Общее количество случаев"
+    },
+    {
+        "id": "Deceased",
+        "english": "Deceased",
+        "ukrainian": "",
+        "russian": "Умершие"
+    },
+    {
+        "id": "Recovered",
+        "english": "Recovered",
+        "ukrainian": "",
+        "russian": "Выздоровевшие"
+    },
+    {
+        "id": "Last_updated",
+        "english": "Last updated",
+        "ukrainian": "",
+        "russian": "Последнее обновление"
     }
 ]
