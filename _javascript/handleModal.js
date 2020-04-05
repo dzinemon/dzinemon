@@ -15,6 +15,12 @@ document.addEventListener('DOMContentLoaded', () => {
         // document.querySelector('.tab-' + this.dataset.targetTab).classList.remove('is-invisible')
       }
     })
+  });
+
+  window.addEventListener('click', function(e){
+    if (e.target.classList.contains('modal-background')) {
+      document.querySelector('.modal').classList.remove('is-active');
+    }
   })
 
   const closeModalBtn = document.querySelector('.modal button.delete');
