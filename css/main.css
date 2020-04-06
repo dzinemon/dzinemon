@@ -7009,3 +7009,18 @@ label.panel-block {
 
 .table th {
   white-space: nowrap !important; }
+
+.svg-icon {
+  vertical-align: sub; }
+
+.asc .path-top {
+  opacity: 1; }
+
+.asc .path-btm {
+  opacity: .5; }
+
+.desc .path-top {
+  opacity: .5; }
+
+.desc .path-btm {
+  opacity: 1; }
