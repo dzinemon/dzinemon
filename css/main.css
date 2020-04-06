@@ -7005,10 +7005,7 @@ label.panel-block {
   min-width: 146px; }
 
 #countries_body tr:nth-child(odd) {
-  background-color: rgba(48, 48, 48, 0.5); }
-
-table td:nth-child(odd), table th:nth-child(odd) {
-  background-color: rgba(31, 31, 31, 0.9); }
+  background-color: rgba(74, 74, 74, 0.2); }
 
 .table th {
   white-space: nowrap !important; }
