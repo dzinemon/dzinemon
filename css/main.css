@@ -7005,7 +7005,7 @@ label.panel-block {
   min-width: 146px; }
 
 #countries_body tr:nth-child(odd) {
-  background-color: rgba(74, 74, 74, 0.2); }
+  background-color: rgba(74, 74, 74, 0.6); }
 
 .table th {
   white-space: nowrap !important; }
@@ -7017,10 +7017,10 @@ label.panel-block {
   opacity: 1; }
 
 .asc .path-btm {
-  opacity: .5; }
+  opacity: .1; }
 
 .desc .path-top {
-  opacity: .5; }
+  opacity: .1; }
 
 .desc .path-btm {
   opacity: 1; }
