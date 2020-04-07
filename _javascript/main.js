@@ -137,11 +137,11 @@ document.addEventListener('DOMContentLoaded', () => {
         position: 'top', 
         textStyle: {color: 'white', fontSize: 16, bold: true}
       },
-      chartArea:{left:50,top:40,right:40,bottom:40},
+      chartArea:{left:50,top:40,right:20,bottom:40},
       vAxis: {
         textStyle: {
           color: colors.light,
-          fontSize: '14',
+          fontSize: '12',
         },
         baselineColor: colors.lighter,
         gridlines: {color: colors.lighter, minSpacing: 40}
@@ -157,8 +157,10 @@ document.addEventListener('DOMContentLoaded', () => {
       },
     };
 
+    var columnName =  type.charAt(0).toUpperCase() + type.slice(1) + ' cases';
+
     data.addColumn('string', 'Date');
-    data.addColumn('number', type.toUpperCase());
+    data.addColumn('number', columnName);
     // data.addColumn('number', "Deceased");
 
     data.addRows(dateSet);
