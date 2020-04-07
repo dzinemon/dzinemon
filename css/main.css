@@ -6977,6 +6977,11 @@ label.panel-block {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
+.logo-item {
+  padding: 0px 12px 0px 12px; }
+  .logo-item img {
+    max-height: 48px; }
+
 .hoverable {
   cursor: pointer; }
 
