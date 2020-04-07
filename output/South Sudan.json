@@ -1,0 +1,13 @@
+[
+    {
+        "country": "South Sudan",
+        "byDate": [
+            {
+                "date": "April 06, 2020",
+                "timestamp": "1586131200",
+                "confirmed": 1,
+                "death": 0
+            }
+        ]
+    }
+]
