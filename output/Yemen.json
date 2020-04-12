@@ -1,0 +1,19 @@
+[
+    {
+        "country": "Yemen",
+        "byDate": [
+            {
+                "date": "April 11, 2020",
+                "timestamp": "1586563200",
+                "confirmed": 1,
+                "death": 0
+            },
+            {
+                "date": "April 12, 2020",
+                "timestamp": "1586649600",
+                "confirmed": 1,
+                "death": 0
+            }
+        ]
+    }
+]

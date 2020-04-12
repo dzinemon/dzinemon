@@ -7015,6 +7015,9 @@ label.panel-block {
 .table th {
   white-space: nowrap !important; }
 
+.has-text-success {
+  display: none !important; }
+
 .svg-icon {
   vertical-align: sub; }
 
