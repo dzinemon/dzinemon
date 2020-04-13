@@ -21,13 +21,13 @@
           </a> &nbsp;
           {% endif %}
           {% if page.lang !="ua" %}
-          <a class="is-small button is-light is-outlined" href="{{ site.url }}/ua/">
+          <a class="is-small button is-light is-outlined" href="{{ site.url | replace: '.com/', '.com' }}/ua/">
             UA
             <!-- 🇺🇦 -->
           </a> &nbsp;
           {% endif %}
           {% if page.lang !="ru" %}
-          <a class="is-small button is-light is-outlined" href="{{ site.url }}/ru/">
+          <a class="is-small button is-light is-outlined" href="{{ site.url | replace: '.com/', '.com'}}/ru/">
             RU
             <!-- 🇷🇺 -->
           </a>
