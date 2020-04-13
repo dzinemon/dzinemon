@@ -18,8 +18,8 @@
         "russian": "Китай"
     },
     {
-        "id": "Republic of Korea",
-        "english": "Republic of Korea",
+        "id": "S. Korea",
+        "english": "S. sKorea",
         "ukrainian": "Півленна Корея",
         "russian": "Южная Корея"
     },
@@ -48,8 +48,8 @@
         "russian": "Малайзия"
     },
     {
-        "id": "Viet Nam",
-        "english": "Viet Nam",
+        "id": "Vietnam",
+        "english": "Vietnam",
         "ukrainian": "В'єтнам",
         "russian": "Вьетнам"
     },
@@ -90,8 +90,8 @@
         "russian": "Испания"
     },
     {
-        "id": "The United Kingdom",
-        "english": "The United Kingdom",
+        "id": "UK",
+        "english": "UK",
         "ukrainian": "Великобританія",
         "russian": "Англия"
     },
@@ -174,8 +174,8 @@
         "russian": "Финляндия"
     },
     {
-        "id": "Russian Federation",
-        "english": "Russian Federation",
+        "id": "Russia",
+        "english": "Russia",
         "ukrainian": "Росія",
         "russian": "Россия"
     },
@@ -252,8 +252,8 @@
         "russian": "Шри Ланка"
     },
     {
-        "id": "Iran (Islamic Republic of)",
-        "english": "Iran (Islamic Republic of)",
+        "id": "Iran",
+        "english": "Iran",
         "ukrainian": "Іран",
         "russian": "Иран"
     },
@@ -270,8 +270,8 @@
         "russian": "Бахрейн"
     },
     {
-        "id": "United Arab Emirates",
-        "english": "United Arab Emirates",
+        "id": "UAE",
+        "english": "UAE",
         "ukrainian": "ОАЕ",
         "russian": "ОАЭ"
     },
@@ -504,7 +504,7 @@
         "russian": "Сен-Мартен"
     },
     {
-        "id": "Saint Barthelemy",
+        "id": "St. Barth",
         "english": "Saint Barthelemy",
         "ukrainian": "Сен-Бартельмі",
         "russian": "Сен-Бартелеми"
@@ -576,8 +576,8 @@
         "russian": "Болгария"
     },
     {
-        "id": "Republic of Moldova",
-        "english": "Republic of Moldova",
+        "id": "Moldova",
+        "english": "Moldova",
         "ukrainian": "Молдова",
         "russian": "Молдавия"
     },
@@ -630,8 +630,8 @@
         "russian": "Парагвай"
     },
     {
-        "id": "Brunei Darussalam",
-        "english": "Brunei Darussalam",
+        "id": "Brunei",
+        "english": "Brunei",
         "ukrainian": "Бруней",
         "russian": "Бруней"
     },
@@ -660,8 +660,8 @@
         "russian": "Панама"
     },
     {
-        "id": "Bolivia (Plurinational State of)",
-        "english": "Bolivia (Plurinational State of)",
+        "id": "Bolivia",
+        "english": "Bolivia",
         "ukrainian": "Болівія",
         "russian": "Боливия"
     },
@@ -726,7 +726,7 @@
         "russian": "Гайана"
     },
     {
-        "id": "Saint Vincent and the Grenadines",
+        "id": "St. Vincent Grenadines",
         "english": "Saint Vincent and the Grenadines",
         "ukrainian": "Сент-Вінсент і Гренадини",
         "russian": "Сент-Винсент и Гренадины"
@@ -744,8 +744,8 @@
         "russian": "Пуэрто-Рико"
     },
     {
-        "id": "Venezuela (Bolivarian Republic of)",
-        "english": "Venezuela (Bolivarian Republic of)",
+        "id": "Venezuela",
+        "english": "Venezuela",
         "ukrainian": "Венесуела",
         "russian": "Венесуэла"
     },
@@ -948,7 +948,7 @@
         "russian": "Либерия"
     },
     {
-        "id": "United Republic of Tanzania",
+        "id": "Tanzania",
         "english": "United Republic of Tanzania",
         "ukrainian": "Танзані́я",
         "russian": "Танзания"
@@ -1038,8 +1038,8 @@
         "russian": "Никарагуа"
     },
     {
-        "id": "United States Virgin Islands",
-        "english": "United States Virgin Islands",
+        "id": "U.S. Virgin Islands",
+        "english": "U.S. Virgin Islands",
         "ukrainian": "Американські Віргінські Острови",
         "russian": "Американские Виргинские острова"
     },
@@ -1128,7 +1128,7 @@
         "russian": "Косово"
     },
     {
-        "id": "Syrian Arab Republic",
+        "id": "Syria",
         "english": "Syrian Arab Republic",
         "ukrainian": "Сирі́йська Ара́бська Респу́бліка",
         "russian": "Сирия"

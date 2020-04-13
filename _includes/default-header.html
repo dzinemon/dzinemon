@@ -1,28 +1,55 @@
 <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
-  
-    <div class="container">
-      <div class="navbar-brand">
-        
-          <a class="navbar-item has-text-white logo-item" href="/">
-            <img src="/images/covid-logo.svg" alt="Covid 19 Data logo" width="48" height="48">
+  <div class="container">
+    <div class="navbar-brand">
+        <a class="navbar-item has-text-white logo-item" href="/">
+          <img src="/images/covid-logo.svg" alt="Covid 19 Data logo" width="48" height="48">
+        </a>
+        <p class="navbar-item has-text-white is-size-7-mobile">
+          {% if page.lang == 'en' %}
+            {{ site.data.en.logo-text }}
+          {% elsif page.lang == 'ru' %}
+            {{ site.data.ru.logo-text }}
+          {% elsif page.lang == 'ua' %}
+            {{ site.data.ua.logo-text }}
+          {% endif %}
+        </p>
+        <p class="navbar-item">
+          {% if page.lang !="en" %}
+          <a class="is-small button is-light is-outlined" href="{{ site.url }}">
+            EN
+            <!-- 🇺🇸 -->
+          </a> &nbsp;
+          {% endif %}
+          {% if page.lang !="ua" %}
+          <a class="is-small button is-light is-outlined" href="{{ site.url }}/ua/">
+            UA
+            <!-- 🇺🇦 -->
+          </a> &nbsp;
+          {% endif %}
+          {% if page.lang !="ru" %}
+          <a class="is-small button is-light is-outlined" href="{{ site.url }}/ru/">
+            RU
+            <!-- 🇷🇺 -->
           </a>
-          <p class="navbar-item has-text-white">
-            Coronavirus disease Data
+          {% endif %}
+        </p>
+    </div>
+    <div class="navbar-end">
+      
+      <div class="navbar-item">
+        <div class="field is-grouped">
+          <p class="control has-text-white is-size-7">
+            {% if page.lang == 'en' %}
+              {{ site.data.en.last-updated }}
+            {% elsif page.lang == 'ru' %}
+              {{ site.data.ru.last-updated }}
+            {% elsif page.lang == 'ua' %}
+              {{ site.data.ua.last-updated }}
+            {% endif %}
+          : <span class="has-text-weight-semibold">{{ site.time | date: '%b %d, %Y' }}</span>
           </p>
-          
-        
-        
-      </div>
-      <div class="navbar-end">
-        <div class="navbar-item">
-          <div class="field is-grouped">
-            <p class="control has-text-white is-size-7">
-              Last updated: <span class="has-text-weight-semibold">{{ site.time | date: '%B %d, %Y' }}</span>
-            </p>
-          </div>
         </div>
       </div>
     </div>
-  
- 
+  </div>
 </nav>

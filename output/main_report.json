@@ -678,12 +678,6 @@
         "recovered": 0
     },
     {
-        "country": "DRC",
-        "confirmed": 223,
-        "death": 20,
-        "recovered": 0
-    },
-    {
         "country": "French Polynesia",
         "confirmed": 51,
         "death": 0,
@@ -699,12 +693,6 @@
         "country": "Honduras",
         "confirmed": 392,
         "death": 24,
-        "recovered": 0
-    },
-    {
-        "country": "Ivory Coast",
-        "confirmed": 533,
-        "death": 4,
         "recovered": 0
     },
     {
@@ -824,12 +812,6 @@
     {
         "country": "Namibia",
         "confirmed": 16,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "CAR",
-        "confirmed": 11,
         "death": 0,
         "recovered": 0
     },
@@ -1026,7 +1008,7 @@
         "recovered": 0
     },
     {
-        "country": "Herzegovina",
+        "country": "Bosnia and Herzegovina",
         "confirmed": 44,
         "death": 0,
         "recovered": 0
@@ -1170,18 +1152,6 @@
         "recovered": 0
     },
     {
-        "country": "Turks and Caicos",
-        "confirmed": 8,
-        "death": 1,
-        "recovered": 0
-    },
-    {
-        "country": "Laos",
-        "confirmed": 16,
-        "death": 0,
-        "recovered": 0
-    },
-    {
         "country": "Libya",
         "confirmed": 25,
         "death": 1,
@@ -1238,48 +1208,6 @@
     {
         "country": "Sierra Leone",
         "confirmed": 8,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "Malawi",
-        "confirmed": 12,
-        "death": 2,
-        "recovered": 0
-    },
-    {
-        "country": "Bonaire, Sint Eustatius and Saba",
-        "confirmed": 2,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "Falkland Islands",
-        "confirmed": 5,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "South Sudan",
-        "confirmed": 4,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "Sao Tome and Principe",
-        "confirmed": 4,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "Saint Pierre Miquelon",
-        "confirmed": 1,
-        "death": 0,
-        "recovered": 0
-    },
-    {
-        "country": "Yemen",
-        "confirmed": 1,
         "death": 0,
         "recovered": 0
     }

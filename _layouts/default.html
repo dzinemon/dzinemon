@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang }}">
 <head>
   {% include head-includes.html %}
   {% include default-meta.html %}
@@ -7,7 +7,16 @@
 <body class="has-background-black-ter" style="min-height: 100vh;">
   {% include body-top-includes.html %}
   {% include default-header.html %}
-  {{ content }}
+  
+  <section class="section is-small has-background-black-ter">
+    {% include quick-info.html %}
+    <hr class="is-hidden-touch">
+
+    {% include countries.html %}
+
+    {% include modal.html %}
+  </section>
+
   {% include default-footer.html %}
   {% include scripts.html %}
 </body>

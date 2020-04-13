@@ -1,22 +1,46 @@
 <div class="container">
   <div class="columns is-flex is-multiline is-centered">
     <div class="column has-text-white	is-half-mobile is-size-7-touch">
-      Total confirmed: <br>
+      {% if page.lang == 'en' %}
+        {{ site.data.en.total-cases }}
+      {% elsif page.lang == 'ru' %}
+        {{ site.data.ru.total-cases }}
+      {% elsif page.lang == 'ua' %}
+        {{ site.data.ua.total-cases }}
+      {% endif %}: <br>
       <span class="is-size-4-touch is-size-3-desktop has-text-weight-bold total_confirmed" id="total_cases">&nbsp;</span>
     </div>
     <div class="column has-text-warning	is-half-mobile is-size-7-touch">
-      Total active: <br>
+      {% if page.lang == 'en' %}
+        {{ site.data.en.total-active }}
+      {% elsif page.lang == 'ru' %}
+        {{ site.data.ru.total-active }}
+      {% elsif page.lang == 'ua' %}
+        {{ site.data.ua.total-active }}
+      {% endif %}: <br>
       <span class="is-size-4-touch is-size-3-desktop has-text-weight-bold total_active" id="total_active">&nbsp;</span>
       <span class="is-size-7-touch is-size-6-desktop percent_active" id="percent_active">&nbsp;</span>
     </div>
     <div class="column has-text-danger is-half-mobile is-size-7-touch">
-      Total deceased: <br>
+      {% if page.lang == 'en' %}
+        {{ site.data.en.total-death }}
+      {% elsif page.lang == 'ru' %}
+        {{ site.data.ru.total-death }}
+      {% elsif page.lang == 'ua' %}
+        {{ site.data.ua.total-death }}
+      {% endif %}: <br>
       <span class="is-size-4-touch is-size-3-desktop has-text-weight-bold total_death" id="total_death">&nbsp;</span>
       <span class="is-size-7-touch is-size-6-desktop percent_death" id="percent_death">&nbsp;</span>
 
     </div>
     <div class="column has-text-success	is-half-mobile is-size-7-touch ">
-      Total recovered: <br>
+      {% if page.lang == 'en' %}
+        {{ site.data.en.total-recovered }}
+      {% elsif page.lang == 'ru' %}
+        {{ site.data.ru.total-recovered }}
+      {% elsif page.lang == 'ua' %}
+        {{ site.data.ua.total-recovered }}
+      {% endif %}: <br>
       <span class="is-size-4-touch is-size-3-desktop has-text-weight-bold total_recovered" id="total_recovered">&nbsp;</span>
       <span class="is-size-7-touch is-size-6-desktop percent_recovered" id="percent_recovered">&nbsp;</span>
     </div>
