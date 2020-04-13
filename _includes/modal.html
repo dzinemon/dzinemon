@@ -2,7 +2,16 @@
   <div class="modal-background"></div>
   <div class="modal-card">
     <header class="modal-card-head has-background-black">
-      <p class="modal-card-title has-text-white" ><span id="country_name" class="has-text-weight-bold"></span>&nbsp;📈<span class="is-size-6-desktop is-size-7-mobile">Charts for confirmed and deceased</span></p>
+      <p class="modal-card-title has-text-white" ><span id="country_name" class="has-text-weight-bold"></span>&nbsp;📈<span class="is-size-6-desktop is-size-7-mobile">
+        
+        {% if page.lang == 'en' %}
+          Charts for confirmed and deceased
+        {% elsif page.lang == 'ru' %}
+          Данные по подтвержденным и смертям
+        {% elsif page.lang == 'ua' %}
+          Підтвердженні та смертельні випадки
+        {% endif %} 
+        </span></p>
       <button class="delete has-background-danger" aria-label="close"></button>
     </header>
     <section class="modal-card-body has-background-black-bis">
