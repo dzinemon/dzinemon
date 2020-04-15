@@ -19,7 +19,7 @@
     },
     {
         "id": "S. Korea",
-        "english": "S. sKorea",
+        "english": "S. Korea",
         "ukrainian": "Півленна Корея",
         "russian": "Южная Корея"
     },
@@ -91,7 +91,7 @@
     },
     {
         "id": "UK",
-        "english": "UK",
+        "english": "The United Kingdom",
         "ukrainian": "Великобританія",
         "russian": "Англия"
     },
@@ -175,7 +175,7 @@
     },
     {
         "id": "Russia",
-        "english": "Russia",
+        "english": "Russian Federation",
         "ukrainian": "Росія",
         "russian": "Россия"
     },
@@ -253,7 +253,7 @@
     },
     {
         "id": "Iran",
-        "english": "Iran",
+        "english": "Iran (Islamic Republic of)",
         "ukrainian": "Іран",
         "russian": "Иран"
     },
@@ -271,7 +271,7 @@
     },
     {
         "id": "UAE",
-        "english": "UAE",
+        "english": "United Arab Emirates",
         "ukrainian": "ОАЕ",
         "russian": "ОАЭ"
     },
@@ -577,7 +577,7 @@
     },
     {
         "id": "Moldova",
-        "english": "Moldova",
+        "english": "Republic of Moldova",
         "ukrainian": "Молдова",
         "russian": "Молдавия"
     },
@@ -631,7 +631,7 @@
     },
     {
         "id": "Brunei",
-        "english": "Brunei",
+        "english": "Brunei Darussalam",
         "ukrainian": "Бруней",
         "russian": "Бруней"
     },
@@ -661,7 +661,7 @@
     },
     {
         "id": "Bolivia",
-        "english": "Bolivia",
+        "english": "Bolivia (Plurinational State of)",
         "ukrainian": "Болівія",
         "russian": "Боливия"
     },
@@ -732,6 +732,12 @@
         "russian": "Сент-Винсент и Гренадины"
     },
     {
+        "id": "South Sudan",
+        "english": "Sudan",
+        "ukrainian": "Судан",
+        "russian": "Судан"
+    },
+    {
         "id": "Sudan",
         "english": "Sudan",
         "ukrainian": "Судан",
@@ -745,7 +751,7 @@
     },
     {
         "id": "Venezuela",
-        "english": "Venezuela",
+        "english": "Venezuela (Bolivarian Republic of)",
         "ukrainian": "Венесуела",
         "russian": "Венесуэла"
     },
@@ -1039,7 +1045,7 @@
     },
     {
         "id": "U.S. Virgin Islands",
-        "english": "U.S. Virgin Islands",
+        "english": "United States Virgin Islands",
         "ukrainian": "Американські Віргінські Острови",
         "russian": "Американские Виргинские острова"
     },
@@ -1258,6 +1264,72 @@
         "english": "Macao",
         "ukrainian": "Макао",
         "russian": "Макао"
+    },
+    {
+        "id": "DRC",
+        "english": "DRC",
+        "ukrainian": "DRC",
+        "russian": "DRC"
+    },
+    {
+        "id": "Ivory Coast",
+        "english": "Ivory Coast",
+        "ukrainian": "Ivory Coast",
+        "russian": "Ivory Coast"
+    },
+    {
+        "id": "CAR",
+        "english": "CAR",
+        "ukrainian": "CAR",
+        "russian": "CAR"
+    },
+    {
+        "id": "Turks and Caicos",
+        "english": "Turks and Caicos",
+        "ukrainian": "Turks and Caicos",
+        "russian": "Turks and Caicos"
+    },
+    {
+        "id": "Laos",
+        "english": "Laos",
+        "ukrainian": "Laos",
+        "russian": "Laos"
+    },
+    {
+        "id": "Malawi",
+        "english": "Malawi",
+        "ukrainian": "Malawi",
+        "russian": "Malawi"
+    },
+    {
+        "id": "Bonaire, Sint Eustatius and Saba",
+        "english": "Bonaire, Sint Eustatius and Saba",
+        "ukrainian": "Bonaire, Sint Eustatius and Saba",
+        "russian": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+        "id": "Falkland Islands",
+        "english": "Falkland Islands",
+        "ukrainian": "Falkland Islands",
+        "russian": "Falkland Islands"
+    },
+    {
+        "id": "Sao Tome and Principe",
+        "english": "Sao Tome and Principe",
+        "ukrainian": "Sao Tome and Principe",
+        "russian": "Sao Tome and Principe"
+    },
+    {
+        "id": "Saint Pierre Miquelon",
+        "english": "Saint Pierre Miquelon",
+        "ukrainian": "Saint Pierre Miquelon",
+        "russian": "Saint Pierre Miquelon"
+    },
+    {
+        "id": "Yemen",
+        "english": "Yemen",
+        "ukrainian": "Yemen",
+        "russian": "Yemen"
     },
     {
         "id": "Total_confirmed",
