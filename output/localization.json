@@ -734,14 +734,8 @@
     {
         "id": "South Sudan",
         "english": "Sudan",
-        "ukrainian": "Судан",
-        "russian": "Судан"
-    },
-    {
-        "id": "Sudan",
-        "english": "Sudan",
-        "ukrainian": "Судан",
-        "russian": "Судан"
+        "ukrainian": "Південний Судан",
+        "russian": "Южный Судан"
     },
     {
         "id": "Puerto Rico",
@@ -1298,8 +1292,8 @@
     {
         "id": "Malawi",
         "english": "Malawi",
-        "ukrainian": "Malawi",
-        "russian": "Malawi"
+        "ukrainian": "Малаві",
+        "russian": "Малави"
     },
     {
         "id": "Bonaire, Sint Eustatius and Saba",
@@ -1328,8 +1322,20 @@
     {
         "id": "Yemen",
         "english": "Yemen",
-        "ukrainian": "Yemen",
-        "russian": "Yemen"
+        "ukrainian": "Ємен",
+        "russian": "Йемен"
+    },
+    {
+        "id": "Sudan",
+        "english": "Sudan",
+        "ukrainian": " Судан",
+        "russian": "Судан"
+    },
+    {
+        "id": "Herzegovina",
+        "english": "Herzegovina",
+        "ukrainian": "Герцеговина",
+        "russian": "Герцеговина"
     },
     {
         "id": "Total_confirmed",
