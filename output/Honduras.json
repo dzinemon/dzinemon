@@ -235,6 +235,12 @@
                 "timestamp": "1587254400",
                 "confirmed": 457,
                 "death": 46
+            },
+            {
+                "date": "April 20, 2020",
+                "timestamp": "1587340800",
+                "confirmed": 472,
+                "death": 46
             }
         ]
     }
