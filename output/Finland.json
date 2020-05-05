@@ -307,6 +307,72 @@
                 "timestamp": "1587340800",
                 "confirmed": 3783,
                 "death": 94
+            },
+            {
+                "date": "April 21, 2020",
+                "timestamp": "1587427200",
+                "confirmed": 3868,
+                "death": 98
+            },
+            {
+                "date": "April 22, 2020",
+                "timestamp": "1587513600",
+                "confirmed": 4014,
+                "death": 141
+            },
+            {
+                "date": "April 23, 2020",
+                "timestamp": "1587600000",
+                "confirmed": 4129,
+                "death": 149
+            },
+            {
+                "date": "April 24, 2020",
+                "timestamp": "1587686400",
+                "confirmed": 4284,
+                "death": 172
+            },
+            {
+                "date": "April 25, 2020",
+                "timestamp": "1587772800",
+                "confirmed": 4395,
+                "death": 177
+            },
+            {
+                "date": "April 26, 2020",
+                "timestamp": "1587859200",
+                "confirmed": 4475,
+                "death": 186
+            },
+            {
+                "date": "April 27, 2020",
+                "timestamp": "1587945600",
+                "confirmed": 4576,
+                "death": 190
+            },
+            {
+                "date": "April 28, 2020",
+                "timestamp": "1588032000",
+                "confirmed": 4695,
+                "death": 193
+            },
+            {
+                "date": "April 29, 2020",
+                "timestamp": "1588118400",
+                "confirmed": 4740,
+                "death": 199
+            },
+            {
+                "date": "April 30, 2020",
+                "timestamp": "1588204800",
+                "confirmed": 4906,
+                "death": 206
+            },
+            {
+                "date": "May 01, 2020",
+                "timestamp": "1588291200",
+                "confirmed": 4995,
+                "death": 211
             }
         ]
     }

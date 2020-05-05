@@ -1298,26 +1298,26 @@
     {
         "id": "Bonaire, Sint Eustatius and Saba",
         "english": "Bonaire, Sint Eustatius and Saba",
-        "ukrainian": "Bonaire, Sint Eustatius and Saba",
-        "russian": "Bonaire, Sint Eustatius and Saba"
+        "ukrainian": "Карибські Нідерланди",
+        "russian": "Бонайре, Синт-Эста́тиус и Са́ба"
     },
     {
         "id": "Falkland Islands",
         "english": "Falkland Islands",
-        "ukrainian": "Falkland Islands",
-        "russian": "Falkland Islands"
+        "ukrainian": "Фолкле́ндські Острови́",
+        "russian": "Фолкле́ндские острова́"
     },
     {
         "id": "Sao Tome and Principe",
         "english": "Sao Tome and Principe",
-        "ukrainian": "Sao Tome and Principe",
-        "russian": "Sao Tome and Principe"
+        "ukrainian": "Сан-Томе і Принсіпі",
+        "russian": "Сан-Томе и Принсипи"
     },
     {
         "id": "Saint Pierre Miquelon",
         "english": "Saint Pierre Miquelon",
-        "ukrainian": "Saint Pierre Miquelon",
-        "russian": "Saint Pierre Miquelon"
+        "ukrainian": "Сен П'єр і Мікелон",
+        "russian": "Сен-Пье́р и Микело́н"
     },
     {
         "id": "Yemen",
@@ -1336,6 +1336,18 @@
         "english": "Herzegovina",
         "ukrainian": "Герцеговина",
         "russian": "Герцеговина"
+    },
+    {
+        "id": "Comoros",
+        "english": "Comoros",
+        "ukrainian": "Сою́з Комо́рських Острові́в",
+        "russian": "Комо́ры"
+    },
+    {
+        "id": "Tajikistan",
+        "english": "Tajikistan",
+        "ukrainian": "Таджикиста́н",
+        "russian": "Таджикистан"
     },
     {
         "id": "Total_confirmed",

@@ -1,0 +1,13 @@
+[
+    {
+        "country": "Comoros",
+        "byDate": [
+            {
+                "date": "May 01, 2020",
+                "timestamp": "1588291200",
+                "confirmed": 1,
+                "death": 0
+            }
+        ]
+    }
+]

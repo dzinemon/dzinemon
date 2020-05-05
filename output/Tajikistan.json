@@ -1,0 +1,13 @@
+[
+    {
+        "country": "Tajikistan",
+        "byDate": [
+            {
+                "date": "May 01, 2020",
+                "timestamp": "1588291200",
+                "confirmed": 15,
+                "death": 0
+            }
+        ]
+    }
+]
