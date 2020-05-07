@@ -1,51 +1,51 @@
 [
     {
         "country": "China",
-        "confirmed": 84385,
+        "confirmed": 84404,
         "death": 4643,
-        "recovered": 77766
+        "recovered": 77957
     },
     {
         "country": "S. Korea",
-        "confirmed": 10801,
-        "death": 252,
-        "recovered": 9217
+        "confirmed": 10810,
+        "death": 256,
+        "recovered": 9419
     },
     {
         "country": "Japan",
-        "confirmed": 15078,
-        "death": 536,
-        "recovered": 4156
+        "confirmed": 15253,
+        "death": 556,
+        "recovered": 4496
     },
     {
         "country": "Singapore",
-        "confirmed": 18778,
-        "death": 18,
-        "recovered": 1457
+        "confirmed": 20939,
+        "death": 20,
+        "recovered": 1634
     },
     {
         "country": "Australia",
-        "confirmed": 6825,
-        "death": 95,
-        "recovered": 5859
+        "confirmed": 6894,
+        "death": 97,
+        "recovered": 6040
     },
     {
         "country": "Malaysia",
-        "confirmed": 6353,
-        "death": 105,
-        "recovered": 4484
+        "confirmed": 6428,
+        "death": 107,
+        "recovered": 4702
     },
     {
         "country": "Vietnam",
         "confirmed": 271,
         "death": 0,
-        "recovered": 219
+        "recovered": 232
     },
     {
         "country": "Philippines",
-        "confirmed": 9485,
-        "death": 623,
-        "recovered": 1315
+        "confirmed": 10343,
+        "death": 685,
+        "recovered": 1618
     },
     {
         "country": "Cambodia",
@@ -55,429 +55,429 @@
     },
     {
         "country": "New Zealand",
-        "confirmed": 1487,
-        "death": 20,
-        "recovered": 1276
+        "confirmed": 1489,
+        "death": 21,
+        "recovered": 1332
     },
     {
         "country": "Italy",
-        "confirmed": 211938,
-        "death": 29079,
-        "recovered": 82879
+        "confirmed": 214457,
+        "death": 29684,
+        "recovered": 93245
     },
     {
         "country": "France",
-        "confirmed": 169462,
-        "death": 25201,
-        "recovered": 51371
+        "confirmed": 174191,
+        "death": 25809,
+        "recovered": 53972
     },
     {
         "country": "Germany",
-        "confirmed": 166152,
-        "death": 6993,
-        "recovered": 132700
+        "confirmed": 168162,
+        "death": 7275,
+        "recovered": 139900
     },
     {
         "country": "Spain",
-        "confirmed": 248301,
-        "death": 25428,
-        "recovered": 151633
+        "confirmed": 253682,
+        "death": 25857,
+        "recovered": 159359
     },
     {
         "country": "UK",
-        "confirmed": 190584,
-        "death": 28734,
+        "confirmed": 201101,
+        "death": 30076,
         "recovered": 0
     },
     {
         "country": "Switzerland",
-        "confirmed": 29981,
-        "death": 1784,
-        "recovered": 25200
+        "confirmed": 30060,
+        "death": 1805,
+        "recovered": 25700
     },
     {
         "country": "Norway",
-        "confirmed": 7884,
-        "death": 214,
+        "confirmed": 7996,
+        "death": 216,
         "recovered": 32
     },
     {
         "country": "Sweden",
-        "confirmed": 22721,
-        "death": 2769,
+        "confirmed": 23918,
+        "death": 2941,
         "recovered": 4074
     },
     {
         "country": "Austria",
-        "confirmed": 15621,
-        "death": 600,
-        "recovered": 13316
+        "confirmed": 15684,
+        "death": 608,
+        "recovered": 13639
     },
     {
         "country": "Croatia",
-        "confirmed": 2101,
-        "death": 80,
-        "recovered": 1522
+        "confirmed": 2119,
+        "death": 85,
+        "recovered": 1601
     },
     {
         "country": "Israel",
-        "confirmed": 16246,
-        "death": 235,
-        "recovered": 10064
+        "confirmed": 16310,
+        "death": 239,
+        "recovered": 10637
     },
     {
         "country": "Netherlands",
-        "confirmed": 40770,
-        "death": 5082,
+        "confirmed": 41319,
+        "death": 5204,
         "recovered": 0
     },
     {
         "country": "Azerbaijan",
-        "confirmed": 1984,
-        "death": 26,
-        "recovered": 1480
+        "confirmed": 2127,
+        "death": 28,
+        "recovered": 1536
     },
     {
         "country": "Denmark",
-        "confirmed": 9670,
-        "death": 493,
-        "recovered": 7088
+        "confirmed": 10083,
+        "death": 506,
+        "recovered": 7493
     },
     {
         "country": "Georgia",
-        "confirmed": 593,
+        "confirmed": 615,
         "death": 9,
-        "recovered": 223
+        "recovered": 275
     },
     {
         "country": "Greece",
-        "confirmed": 2632,
-        "death": 146,
+        "confirmed": 2663,
+        "death": 147,
         "recovered": 1374
     },
     {
         "country": "Romania",
-        "confirmed": 13512,
-        "death": 818,
-        "recovered": 5269
+        "confirmed": 14107,
+        "death": 868,
+        "recovered": 5788
     },
     {
         "country": "Finland",
-        "confirmed": 5327,
-        "death": 240,
+        "confirmed": 5573,
+        "death": 252,
         "recovered": 3500
     },
     {
         "country": "Russia",
-        "confirmed": 145268,
-        "death": 1356,
-        "recovered": 18095
+        "confirmed": 177160,
+        "death": 1625,
+        "recovered": 23803
     },
     {
         "country": "Belarus",
-        "confirmed": 17489,
-        "death": 103,
-        "recovered": 3259
+        "confirmed": 19255,
+        "death": 112,
+        "recovered": 4388
     },
     {
         "country": "Belgium",
-        "confirmed": 50267,
-        "death": 7924,
-        "recovered": 12378
+        "confirmed": 50781,
+        "death": 8339,
+        "recovered": 12731
     },
     {
         "country": "Estonia",
-        "confirmed": 1703,
-        "death": 55,
-        "recovered": 259
+        "confirmed": 1720,
+        "death": 56,
+        "recovered": 273
     },
     {
         "country": "Ireland",
-        "confirmed": 21772,
-        "death": 1319,
-        "recovered": 13386
+        "confirmed": 22248,
+        "death": 1375,
+        "recovered": 17110
     },
     {
         "country": "Lithuania",
         "confirmed": 1449,
-        "death": 46,
-        "recovered": 638
+        "death": 49,
+        "recovered": 739
     },
     {
         "country": "Monaco",
         "confirmed": 98,
         "death": 4,
-        "recovered": 78
+        "recovered": 82
     },
     {
         "country": "North Macedonia",
-        "confirmed": 1518,
-        "death": 85,
-        "recovered": 992
+        "confirmed": 1539,
+        "death": 88,
+        "recovered": 1057
     },
     {
         "country": "San Marino",
-        "confirmed": 582,
+        "confirmed": 608,
         "death": 41,
-        "recovered": 86
+        "recovered": 97
     },
     {
         "country": "Thailand",
-        "confirmed": 2987,
-        "death": 54,
-        "recovered": 2740
+        "confirmed": 2992,
+        "death": 55,
+        "recovered": 2772
     },
     {
         "country": "India",
-        "confirmed": 46437,
-        "death": 1566,
-        "recovered": 12847
+        "confirmed": 53045,
+        "death": 1787,
+        "recovered": 15331
     },
     {
         "country": "Nepal",
-        "confirmed": 75,
+        "confirmed": 99,
         "death": 0,
-        "recovered": 16
+        "recovered": 22
     },
     {
         "country": "Sri Lanka",
-        "confirmed": 751,
-        "death": 8,
-        "recovered": 194
+        "confirmed": 797,
+        "death": 9,
+        "recovered": 232
     },
     {
         "country": "Iran",
-        "confirmed": 98647,
-        "death": 6277,
-        "recovered": 79379
+        "confirmed": 101650,
+        "death": 6418,
+        "recovered": 81587
     },
     {
         "country": "Kuwait",
-        "confirmed": 5278,
-        "death": 40,
-        "recovered": 1947
+        "confirmed": 6289,
+        "death": 42,
+        "recovered": 2219
     },
     {
         "country": "Bahrain",
-        "confirmed": 3533,
+        "confirmed": 3934,
         "death": 8,
-        "recovered": 1744
+        "recovered": 1860
     },
     {
         "country": "UAE",
-        "confirmed": 14730,
-        "death": 137,
-        "recovered": 2966
+        "confirmed": 15738,
+        "death": 157,
+        "recovered": 3359
     },
     {
         "country": "Iraq",
-        "confirmed": 2346,
-        "death": 98,
-        "recovered": 1544
+        "confirmed": 2480,
+        "death": 102,
+        "recovered": 1602
     },
     {
         "country": "Oman",
-        "confirmed": 2637,
-        "death": 12,
-        "recovered": 816
+        "confirmed": 2958,
+        "death": 13,
+        "recovered": 980
     },
     {
         "country": "Pakistan",
-        "confirmed": 20941,
-        "death": 476,
-        "recovered": 5635
+        "confirmed": 24073,
+        "death": 564,
+        "recovered": 6464
     },
     {
         "country": "Lebanon",
-        "confirmed": 740,
+        "confirmed": 750,
         "death": 25,
-        "recovered": 200
+        "recovered": 213
     },
     {
         "country": "Afghanistan",
-        "confirmed": 2894,
-        "death": 90,
-        "recovered": 397
+        "confirmed": 3392,
+        "death": 104,
+        "recovered": 458
     },
     {
         "country": "Egypt",
-        "confirmed": 6813,
-        "death": 436,
-        "recovered": 1632
+        "confirmed": 7588,
+        "death": 469,
+        "recovered": 1815
     },
     {
         "country": "Qatar",
-        "confirmed": 16191,
+        "confirmed": 17972,
         "death": 12,
-        "recovered": 1810
+        "recovered": 2070
     },
     {
         "country": "USA",
-        "confirmed": 1212354,
-        "death": 69725,
-        "recovered": 187484
+        "confirmed": 1263224,
+        "death": 74809,
+        "recovered": 213109
     },
     {
         "country": "Canada",
-        "confirmed": 60772,
-        "death": 3854,
-        "recovered": 26017
+        "confirmed": 63496,
+        "death": 4232,
+        "recovered": 28171
     },
     {
         "country": "Brazil",
-        "confirmed": 107844,
-        "death": 7328,
-        "recovered": 45815
+        "confirmed": 126611,
+        "death": 8588,
+        "recovered": 51370
     },
     {
         "country": "Mexico",
-        "confirmed": 23471,
-        "death": 2154,
-        "recovered": 13447
+        "confirmed": 27634,
+        "death": 2704,
+        "recovered": 17781
     },
     {
         "country": "Ecuador",
         "confirmed": 31881,
-        "death": 1569,
+        "death": 1618,
         "recovered": 3433
     },
     {
         "country": "Algeria",
-        "confirmed": 4648,
-        "death": 465,
-        "recovered": 1998
+        "confirmed": 4997,
+        "death": 476,
+        "recovered": 2197
     },
     {
         "country": "Nigeria",
-        "confirmed": 2558,
-        "death": 87,
-        "recovered": 400
+        "confirmed": 3145,
+        "death": 103,
+        "recovered": 534
     },
     {
         "country": "Czechia",
-        "confirmed": 7819,
-        "death": 252,
-        "recovered": 3807
+        "confirmed": 7979,
+        "death": 263,
+        "recovered": 4214
     },
     {
         "country": "Iceland",
         "confirmed": 1799,
         "death": 10,
-        "recovered": 1723
+        "recovered": 1750
     },
     {
         "country": "Armenia",
-        "confirmed": 2507,
-        "death": 39,
-        "recovered": 1071
+        "confirmed": 2884,
+        "death": 42,
+        "recovered": 1185
     },
     {
         "country": "Luxembourg",
-        "confirmed": 3828,
-        "death": 96,
-        "recovered": 3405
+        "confirmed": 3851,
+        "death": 98,
+        "recovered": 3452
     },
     {
         "country": "Indonesia",
-        "confirmed": 11587,
-        "death": 864,
-        "recovered": 1954
+        "confirmed": 12438,
+        "death": 895,
+        "recovered": 2317
     },
     {
         "country": "Dominican Republic",
-        "confirmed": 8235,
-        "death": 346,
-        "recovered": 1771
+        "confirmed": 8807,
+        "death": 362,
+        "recovered": 1960
     },
     {
         "country": "Portugal",
-        "confirmed": 25524,
-        "death": 1063,
-        "recovered": 1712
+        "confirmed": 26182,
+        "death": 1089,
+        "recovered": 2076
     },
     {
         "country": "Andorra",
         "confirmed": 753,
-        "death": 45,
-        "recovered": 499
+        "death": 46,
+        "recovered": 521
     },
     {
         "country": "Latvia",
-        "confirmed": 896,
-        "death": 16,
-        "recovered": 348
+        "confirmed": 909,
+        "death": 18,
+        "recovered": 464
     },
     {
         "country": "Jordan",
-        "confirmed": 465,
+        "confirmed": 473,
         "death": 9,
-        "recovered": 370
+        "recovered": 377
     },
     {
         "country": "Morocco",
-        "confirmed": 5053,
-        "death": 179,
-        "recovered": 1653
+        "confirmed": 5408,
+        "death": 183,
+        "recovered": 2017
     },
     {
         "country": "Saudi Arabia",
-        "confirmed": 28656,
-        "death": 191,
-        "recovered": 4476
+        "confirmed": 31938,
+        "death": 209,
+        "recovered": 6783
     },
     {
         "country": "Tunisia",
-        "confirmed": 1018,
+        "confirmed": 1025,
         "death": 43,
-        "recovered": 406
+        "recovered": 591
     },
     {
         "country": "Senegal",
-        "confirmed": 1271,
-        "death": 10,
-        "recovered": 415
+        "confirmed": 1433,
+        "death": 12,
+        "recovered": 493
     },
     {
         "country": "Poland",
-        "confirmed": 14006,
-        "death": 698,
-        "recovered": 4095
+        "confirmed": 14898,
+        "death": 737,
+        "recovered": 4862
     },
     {
         "country": "Ukraine",
-        "confirmed": 12331,
-        "death": 303,
-        "recovered": 1619
+        "confirmed": 13691,
+        "death": 340,
+        "recovered": 2396
     },
     {
         "country": "Argentina",
-        "confirmed": 4887,
-        "death": 260,
-        "recovered": 1442
+        "confirmed": 5208,
+        "death": 273,
+        "recovered": 1524
     },
     {
         "country": "Chile",
-        "confirmed": 20643,
-        "death": 270,
-        "recovered": 10415
+        "confirmed": 23048,
+        "death": 281,
+        "recovered": 11189
     },
     {
         "country": "Bosnia and Herzegovina",
-        "confirmed": 1926,
-        "death": 78,
-        "recovered": 855
+        "confirmed": 1987,
+        "death": 86,
+        "recovered": 928
     },
     {
         "country": "Hungary",
-        "confirmed": 3035,
-        "death": 351,
-        "recovered": 630
+        "confirmed": 3150,
+        "death": 383,
+        "recovered": 801
     },
     {
         "country": "Slovenia",
-        "confirmed": 1439,
-        "death": 97,
-        "recovered": 241
+        "confirmed": 1448,
+        "death": 99,
+        "recovered": 246
     },
     {
         "country": "Liechtenstein",
@@ -489,12 +489,12 @@
         "country": "Gibraltar",
         "confirmed": 144,
         "death": 1,
-        "recovered": 133
+        "recovered": 136
     },
     {
         "country": "occupied Palestinian territory",
-        "confirmed": 344,
-        "death": 2,
+        "confirmed": 532,
+        "death": 4,
         "recovered": 0
     },
     {
@@ -511,9 +511,9 @@
     },
     {
         "country": "Serbia",
-        "confirmed": 9557,
-        "death": 197,
-        "recovered": 1574
+        "confirmed": 9791,
+        "death": 203,
+        "recovered": 1971
     },
     {
         "country": "Bhutan",
@@ -523,15 +523,15 @@
     },
     {
         "country": "Cameroon",
-        "confirmed": 2077,
-        "death": 64,
-        "recovered": 953
+        "confirmed": 2265,
+        "death": 108,
+        "recovered": 1000
     },
     {
         "country": "South Africa",
-        "confirmed": 7220,
-        "death": 138,
-        "recovered": 2746
+        "confirmed": 7808,
+        "death": 153,
+        "recovered": 3153
     },
     {
         "country": "Holy See",
@@ -541,45 +541,45 @@
     },
     {
         "country": "Slovakia",
-        "confirmed": 1413,
-        "death": 25,
-        "recovered": 643
+        "confirmed": 1445,
+        "death": 26,
+        "recovered": 806
     },
     {
         "country": "Colombia",
-        "confirmed": 7973,
-        "death": 358,
-        "recovered": 1807
+        "confirmed": 8959,
+        "death": 397,
+        "recovered": 2148
     },
     {
         "country": "Peru",
-        "confirmed": 47372,
-        "death": 1344,
-        "recovered": 14427
+        "confirmed": 54817,
+        "death": 1533,
+        "recovered": 17527
     },
     {
         "country": "Togo",
-        "confirmed": 126,
+        "confirmed": 128,
         "death": 9,
-        "recovered": 74
+        "recovered": 77
     },
     {
         "country": "Malta",
-        "confirmed": 480,
-        "death": 4,
-        "recovered": 399
+        "confirmed": 484,
+        "death": 5,
+        "recovered": 407
     },
     {
         "country": "Bulgaria",
-        "confirmed": 1652,
-        "death": 78,
-        "recovered": 321
+        "confirmed": 1811,
+        "death": 84,
+        "recovered": 384
     },
     {
         "country": "Moldova",
-        "confirmed": 4248,
-        "death": 132,
-        "recovered": 1423
+        "confirmed": 4476,
+        "death": 143,
+        "recovered": 1658
     },
     {
         "country": "Faroe Islands",
@@ -589,140 +589,140 @@
     },
     {
         "country": "Maldives",
-        "confirmed": 541,
-        "death": 1,
-        "recovered": 18
+        "confirmed": 617,
+        "death": 2,
+        "recovered": 20
     },
     {
         "country": "Costa Rica",
-        "confirmed": 742,
+        "confirmed": 761,
         "death": 6,
-        "recovered": 399
+        "recovered": 428
     },
     {
         "country": "French Guiana",
-        "confirmed": 133,
+        "confirmed": 138,
         "death": 1,
-        "recovered": 100
+        "recovered": 112
     },
     {
         "country": "Martinique",
-        "confirmed": 181,
+        "confirmed": 182,
         "death": 14,
         "recovered": 83
     },
     {
         "country": "Albania",
-        "confirmed": 803,
+        "confirmed": 832,
         "death": 31,
-        "recovered": 543
+        "recovered": 595
     },
     {
         "country": "Bangladesh",
-        "confirmed": 10143,
-        "death": 182,
-        "recovered": 1209
+        "confirmed": 11719,
+        "death": 186,
+        "recovered": 1403
     },
     {
         "country": "Paraguay",
-        "confirmed": 396,
+        "confirmed": 440,
         "death": 10,
-        "recovered": 126
+        "recovered": 142
     },
     {
         "country": "Brunei",
-        "confirmed": 138,
+        "confirmed": 141,
         "death": 1,
-        "recovered": 130
+        "recovered": 131
     },
     {
         "country": "Mongolia",
-        "confirmed": 40,
+        "confirmed": 41,
         "death": 0,
-        "recovered": 12
+        "recovered": 13
     },
     {
         "country": "Cyprus",
-        "confirmed": 874,
+        "confirmed": 883,
         "death": 20,
         "recovered": 296
     },
     {
         "country": "Guernsey",
-        "confirmed": 251,
+        "confirmed": 252,
         "death": 13,
         "recovered": 0
     },
     {
         "country": "Panama",
-        "confirmed": 7197,
-        "death": 200,
-        "recovered": 641
+        "confirmed": 7731,
+        "death": 218,
+        "recovered": 859
     },
     {
         "country": "Bolivia",
-        "confirmed": 1594,
-        "death": 76,
-        "recovered": 166
+        "confirmed": 1886,
+        "death": 91,
+        "recovered": 198
     },
     {
         "country": "Jamaica",
-        "confirmed": 469,
+        "confirmed": 478,
         "death": 9,
-        "recovered": 38
+        "recovered": 57
     },
     {
         "country": "Burkina Faso",
-        "confirmed": 672,
-        "death": 46,
-        "recovered": 545
+        "confirmed": 729,
+        "death": 48,
+        "recovered": 555
     },
     {
         "country": "DRC",
-        "confirmed": 682,
-        "death": 34,
-        "recovered": 80
+        "confirmed": 863,
+        "death": 36,
+        "recovered": 103
     },
     {
         "country": "French Polynesia",
-        "confirmed": 58,
+        "confirmed": 60,
         "death": 0,
-        "recovered": 51
+        "recovered": 55
     },
     {
         "country": "Turkey",
-        "confirmed": 127659,
-        "death": 3461,
-        "recovered": 68166
+        "confirmed": 131744,
+        "death": 3584,
+        "recovered": 78202
     },
     {
         "country": "Honduras",
-        "confirmed": 1055,
-        "death": 82,
-        "recovered": 118
+        "confirmed": 1461,
+        "death": 99,
+        "recovered": 132
     },
     {
         "country": "Ivory Coast",
-        "confirmed": 1432,
-        "death": 17,
-        "recovered": 693
+        "confirmed": 1516,
+        "death": 18,
+        "recovered": 721
     },
     {
         "country": "Jersey",
-        "confirmed": 290,
-        "death": 20,
+        "confirmed": 292,
+        "death": 24,
         "recovered": 0
     },
     {
         "country": "Cuba",
-        "confirmed": 1668,
+        "confirmed": 1703,
         "death": 69,
-        "recovered": 876
+        "recovered": 1001
     },
     {
         "country": "Guyana",
-        "confirmed": 92,
-        "death": 9,
+        "confirmed": 93,
+        "death": 10,
         "recovered": 27
     },
     {
@@ -733,87 +733,87 @@
     },
     {
         "country": "Sudan",
-        "confirmed": 678,
-        "death": 41,
-        "recovered": 61
+        "confirmed": 852,
+        "death": 49,
+        "recovered": 80
     },
     {
         "country": "Puerto Rico",
-        "confirmed": 1539,
-        "death": 77,
+        "confirmed": 1843,
+        "death": 97,
         "recovered": 0
     },
     {
         "country": "Venezuela",
-        "confirmed": 357,
+        "confirmed": 379,
         "death": 10,
-        "recovered": 158
+        "recovered": 176
     },
     {
         "country": "Antigua and Barbuda",
         "confirmed": 25,
         "death": 3,
-        "recovered": 15
+        "recovered": 16
     },
     {
         "country": "Guadeloupe",
         "confirmed": 152,
         "death": 13,
-        "recovered": 98
+        "recovered": 104
     },
     {
         "country": "Trinidad and Tobago",
         "confirmed": 116,
         "death": 8,
-        "recovered": 99
+        "recovered": 103
     },
     {
         "country": "Cayman Islands",
-        "confirmed": 75,
+        "confirmed": 78,
         "death": 1,
-        "recovered": 14
+        "recovered": 30
     },
     {
         "country": "Ethiopia",
-        "confirmed": 140,
-        "death": 3,
-        "recovered": 75
-    },
-    {
-        "country": "Gabon",
-        "confirmed": 367,
-        "death": 6,
+        "confirmed": 162,
+        "death": 4,
         "recovered": 93
     },
     {
+        "country": "Gabon",
+        "confirmed": 439,
+        "death": 8,
+        "recovered": 99
+    },
+    {
         "country": "Ghana",
-        "confirmed": 2719,
+        "confirmed": 3091,
         "death": 18,
-        "recovered": 294
+        "recovered": 303
     },
     {
         "country": "Guinea",
-        "confirmed": 1710,
-        "death": 9,
-        "recovered": 450
+        "confirmed": 1856,
+        "death": 11,
+        "recovered": 597
     },
     {
         "country": "Kenya",
-        "confirmed": 490,
-        "death": 24,
-        "recovered": 173
+        "confirmed": 582,
+        "death": 26,
+        "recovered": 190
     },
     {
         "country": "Reunion",
-        "confirmed": 424,
+        "confirmed": 425,
         "death": 0,
         "recovered": 300
     },
     {
         "country": "Kazakhstan",
-        "confirmed": 4049,
-        "death": 29,
-        "recovered": 1173
+        "confirmed": 4502,
+        "death": 30,
+        "recovered": 1408
     },
     {
         "country": "Curacao",
@@ -829,26 +829,26 @@
     },
     {
         "country": "CAR",
-        "confirmed": 85,
+        "confirmed": 94,
         "death": 0,
         "recovered": 10
     },
     {
         "country": "Congo",
-        "confirmed": 236,
+        "confirmed": 264,
         "death": 10,
-        "recovered": 26
+        "recovered": 30
     },
     {
         "country": "Equatorial Guinea",
-        "confirmed": 315,
-        "death": 3,
+        "confirmed": 439,
+        "death": 4,
         "recovered": 13
     },
     {
         "country": "Eswatini",
-        "confirmed": 116,
-        "death": 1,
+        "confirmed": 123,
+        "death": 2,
         "recovered": 12
     },
     {
@@ -859,27 +859,27 @@
     },
     {
         "country": "Mayotte",
-        "confirmed": 686,
-        "death": 6,
+        "confirmed": 739,
+        "death": 9,
         "recovered": 352
     },
     {
         "country": "Uzbekistan",
-        "confirmed": 2189,
+        "confirmed": 2266,
         "death": 10,
-        "recovered": 1405
+        "recovered": 1577
     },
     {
         "country": "Uruguay",
-        "confirmed": 657,
+        "confirmed": 673,
         "death": 17,
-        "recovered": 447
+        "recovered": 486
     },
     {
         "country": "Guatemala",
-        "confirmed": 703,
-        "death": 17,
-        "recovered": 72
+        "confirmed": 798,
+        "death": 21,
+        "recovered": 86
     },
     {
         "country": "Saint Lucia",
@@ -895,45 +895,45 @@
     },
     {
         "country": "Rwanda",
-        "confirmed": 261,
+        "confirmed": 268,
         "death": 0,
-        "recovered": 128
+        "recovered": 130
     },
     {
         "country": "Seychelles",
         "confirmed": 11,
         "death": 0,
-        "recovered": 6
+        "recovered": 8
     },
     {
         "country": "Guam",
-        "confirmed": 142,
+        "confirmed": 146,
         "death": 5,
         "recovered": 0
     },
     {
         "country": "Somalia",
-        "confirmed": 756,
-        "death": 35,
-        "recovered": 61
+        "confirmed": 873,
+        "death": 39,
+        "recovered": 87
     },
     {
         "country": "Bahamas",
-        "confirmed": 83,
+        "confirmed": 92,
         "death": 11,
-        "recovered": 25
+        "recovered": 26
     },
     {
         "country": "Grenadines",
-        "confirmed": 1,
+        "confirmed": 17,
         "death": 0,
         "recovered": 0
     },
     {
         "country": "Aruba",
-        "confirmed": 100,
+        "confirmed": 101,
         "death": 2,
-        "recovered": 81
+        "recovered": 89
     },
     {
         "country": "U.S. Virgin Islands",
@@ -949,27 +949,27 @@
     },
     {
         "country": "Liberia",
-        "confirmed": 166,
-        "death": 18,
-        "recovered": 58
+        "confirmed": 178,
+        "death": 20,
+        "recovered": 75
     },
     {
         "country": "Tanzania",
         "confirmed": 480,
-        "death": 17,
+        "death": 18,
         "recovered": 167
     },
     {
         "country": "Montenegro",
-        "confirmed": 323,
+        "confirmed": 324,
         "death": 8,
-        "recovered": 253
+        "recovered": 265
     },
     {
         "country": "Kyrgyzstan",
-        "confirmed": 830,
-        "death": 10,
-        "recovered": 575
+        "confirmed": 895,
+        "death": 12,
+        "recovered": 637
     },
     {
         "country": "Greenland",
@@ -979,15 +979,15 @@
     },
     {
         "country": "Djibouti",
-        "confirmed": 1116,
-        "death": 2,
-        "recovered": 713
+        "confirmed": 1124,
+        "death": 3,
+        "recovered": 755
     },
     {
         "country": "Barbados",
         "confirmed": 82,
         "death": 7,
-        "recovered": 46
+        "recovered": 47
     },
     {
         "country": "Montserrat",
@@ -999,13 +999,13 @@
         "country": "Mauritius",
         "confirmed": 334,
         "death": 10,
-        "recovered": 316
+        "recovered": 320
     },
     {
         "country": "Zambia",
-        "confirmed": 137,
-        "death": 3,
-        "recovered": 78
+        "confirmed": 146,
+        "death": 4,
+        "recovered": 101
     },
     {
         "country": "Gambia",
@@ -1023,7 +1023,7 @@
         "country": "New Caledonia",
         "confirmed": 18,
         "death": 0,
-        "recovered": 17
+        "recovered": 18
     },
     {
         "country": "Herzegovina",
@@ -1033,49 +1033,49 @@
     },
     {
         "country": "Bermuda",
-        "confirmed": 115,
+        "confirmed": 118,
         "death": 7,
-        "recovered": 54
+        "recovered": 59
     },
     {
         "country": "El Salvador",
-        "confirmed": 555,
-        "death": 13,
-        "recovered": 180
+        "confirmed": 695,
+        "death": 15,
+        "recovered": 245
     },
     {
         "country": "Nicaragua",
-        "confirmed": 15,
+        "confirmed": 16,
         "death": 5,
         "recovered": 7
     },
     {
         "country": "Sint Maarten",
         "confirmed": 76,
-        "death": 13,
+        "death": 14,
         "recovered": 44
     },
     {
         "country": "Chad",
-        "confirmed": 117,
-        "death": 10,
-        "recovered": 39
+        "confirmed": 170,
+        "death": 17,
+        "recovered": 43
     },
     {
         "country": "Niger",
-        "confirmed": 755,
-        "death": 37,
-        "recovered": 534
+        "confirmed": 770,
+        "death": 38,
+        "recovered": 561
     },
     {
         "country": "Papua New Guinea",
         "confirmed": 8,
         "death": 0,
-        "recovered": 6
+        "recovered": 8
     },
     {
         "country": "Isle of Man",
-        "confirmed": 325,
+        "confirmed": 327,
         "death": 23,
         "recovered": 271
     },
@@ -1087,15 +1087,15 @@
     },
     {
         "country": "Haiti",
-        "confirmed": 100,
-        "death": 11,
+        "confirmed": 101,
+        "death": 12,
         "recovered": 10
     },
     {
         "country": "Cabo Verde",
-        "confirmed": 175,
+        "confirmed": 191,
         "death": 2,
-        "recovered": 37
+        "recovered": 38
     },
     {
         "country": "Zimbabwe",
@@ -1105,13 +1105,13 @@
     },
     {
         "country": "Madagascar",
-        "confirmed": 149,
+        "confirmed": 158,
         "death": 0,
-        "recovered": 99
+        "recovered": 101
     },
     {
         "country": "Angola",
-        "confirmed": 35,
+        "confirmed": 36,
         "death": 2,
         "recovered": 11
     },
@@ -1119,23 +1119,23 @@
         "country": "Eritrea",
         "confirmed": 39,
         "death": 0,
-        "recovered": 26
+        "recovered": 30
     },
     {
         "country": "Uganda",
-        "confirmed": 97,
+        "confirmed": 100,
         "death": 0,
         "recovered": 55
     },
     {
         "country": "Kosovo",
-        "confirmed": 799,
-        "death": 22,
+        "confirmed": 855,
+        "death": 27,
         "recovered": 0
     },
     {
         "country": "Syria",
-        "confirmed": 44,
+        "confirmed": 45,
         "death": 3,
         "recovered": 27
     },
@@ -1147,27 +1147,27 @@
     },
     {
         "country": "Mozambique",
-        "confirmed": 80,
+        "confirmed": 81,
         "death": 0,
-        "recovered": 19
+        "recovered": 21
     },
     {
         "country": "Myanmar",
-        "confirmed": 161,
+        "confirmed": 162,
         "death": 6,
-        "recovered": 49
+        "recovered": 50
     },
     {
         "country": "Belize",
         "confirmed": 18,
         "death": 2,
-        "recovered": 13
+        "recovered": 16
     },
     {
         "country": "Dominica",
         "confirmed": 16,
         "death": 0,
-        "recovered": 13
+        "recovered": 14
     },
     {
         "country": "Turks and Caicos",
@@ -1179,31 +1179,31 @@
         "country": "Laos",
         "confirmed": 19,
         "death": 0,
-        "recovered": 9
+        "recovered": 10
     },
     {
         "country": "Libya",
-        "confirmed": 63,
+        "confirmed": 64,
         "death": 3,
-        "recovered": 23
+        "recovered": 24
     },
     {
         "country": "Saint Kitts and Nevis",
         "confirmed": 15,
         "death": 0,
-        "recovered": 8
+        "recovered": 12
     },
     {
         "country": "Guinea-Bissau",
-        "confirmed": 413,
-        "death": 1,
-        "recovered": 19
+        "confirmed": 475,
+        "death": 2,
+        "recovered": 24
     },
     {
         "country": "Mali",
-        "confirmed": 580,
-        "death": 29,
-        "recovered": 223
+        "confirmed": 631,
+        "death": 32,
+        "recovered": 261
     },
     {
         "country": "Anguilla",
@@ -1213,7 +1213,7 @@
     },
     {
         "country": "British Virgin Islands",
-        "confirmed": 6,
+        "confirmed": 7,
         "death": 1,
         "recovered": 3
     },
@@ -1231,19 +1231,19 @@
     },
     {
         "country": "Burundi",
-        "confirmed": 15,
+        "confirmed": 19,
         "death": 1,
         "recovered": 7
     },
     {
         "country": "Sierra Leone",
-        "confirmed": 178,
-        "death": 9,
-        "recovered": 37
+        "confirmed": 225,
+        "death": 14,
+        "recovered": 54
     },
     {
         "country": "Malawi",
-        "confirmed": 41,
+        "confirmed": 43,
         "death": 3,
         "recovered": 9
     },
@@ -1261,13 +1261,13 @@
     },
     {
         "country": "South Sudan",
-        "confirmed": 46,
+        "confirmed": 58,
         "death": 0,
         "recovered": 0
     },
     {
         "country": "Sao Tome and Principe",
-        "confirmed": 23,
+        "confirmed": 174,
         "death": 3,
         "recovered": 4
     },
@@ -1279,20 +1279,20 @@
     },
     {
         "country": "Yemen",
-        "confirmed": 12,
-        "death": 2,
+        "confirmed": 25,
+        "death": 5,
         "recovered": 1
     },
     {
         "country": "Comoros",
-        "confirmed": 3,
-        "death": 0,
+        "confirmed": 8,
+        "death": 1,
         "recovered": 0
     },
     {
         "country": "Tajikistan",
-        "confirmed": 230,
-        "death": 3,
+        "confirmed": 379,
+        "death": 8,
         "recovered": 0
     }
 ]
