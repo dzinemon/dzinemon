@@ -415,6 +415,24 @@
                 "timestamp": "1588896000",
                 "confirmed": 27,
                 "death": 1609
+            },
+            {
+                "date": "May 09, 2020",
+                "timestamp": "1588982400",
+                "confirmed": 29,
+                "death": 1982
+            },
+            {
+                "date": "May 10, 2020",
+                "timestamp": "1589068800",
+                "confirmed": 31,
+                "death": 1906
+            },
+            {
+                "date": "May 11, 2020",
+                "timestamp": "1589155200",
+                "confirmed": 33,
+                "death": 1938
             }
         ]
     }
