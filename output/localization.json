@@ -1350,6 +1350,12 @@
         "russian": "Таджикистан"
     },
     {
+        "id": "Lesotho",
+        "english": "Lesotho",
+        "ukrainian": "Лесо́то",
+        "russian": "Лесо́то"
+    },
+    {
         "id": "Total_confirmed",
         "english": "Total confirmed",
         "ukrainian": "Всього підтверджено",
