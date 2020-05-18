@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
     var currentArray = [];
 
     var sortedData = dataByDate.sort((a, b) => {
-      return a['confirmed'] - b['confirmed']
+      return a['timestamp'] - b['timestamp']
     });
 
     sortedData.map(i=>{
