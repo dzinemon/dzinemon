@@ -1,7 +1,7 @@
 [
     {
         "country": "China",
-        "confirmed": 84494,
+        "confirmed": 84505,
         "death": 4645,
         "recovered": 78249
     },
@@ -73,8 +73,8 @@
     },
     {
         "country": "Germany",
-        "confirmed": 178965,
-        "death": 8304,
+        "confirmed": 178986,
+        "death": 8309,
         "recovered": 158000
     },
     {
@@ -313,9 +313,9 @@
     },
     {
         "country": "USA",
-        "confirmed": 1615011,
-        "death": 96089,
-        "recovered": 380566
+        "confirmed": 1615114,
+        "death": 96093,
+        "recovered": 380691
     },
     {
         "country": "Canada",
@@ -493,7 +493,7 @@
     },
     {
         "country": "occupied Palestinian territory",
-        "confirmed": 560,
+        "confirmed": 570,
         "death": 4,
         "recovered": 0
     },
@@ -709,7 +709,7 @@
     },
     {
         "country": "Jersey",
-        "confirmed": 297,
+        "confirmed": 303,
         "death": 27,
         "recovered": 0
     },
@@ -739,8 +739,8 @@
     },
     {
         "country": "Puerto Rico",
-        "confirmed": 2646,
-        "death": 123,
+        "confirmed": 2805,
+        "death": 124,
         "recovered": 0
     },
     {
@@ -1123,13 +1123,13 @@
     },
     {
         "country": "Uganda",
-        "confirmed": 227,
+        "confirmed": 260,
         "death": 0,
-        "recovered": 65
+        "recovered": 66
     },
     {
         "country": "Kosovo",
-        "confirmed": 955,
+        "confirmed": 989,
         "death": 29,
         "recovered": 0
     },
