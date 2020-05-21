@@ -401,74 +401,80 @@
             {
                 "date": "May 06, 2020",
                 "timestamp": "1588723200",
-                "confirmed": 41,
-                "death": 317
+                "confirmed": 41087,
+                "death": 5168
             },
             {
                 "date": "May 07, 2020",
                 "timestamp": "1588809600",
-                "confirmed": 41,
-                "death": 232
+                "confirmed": 41319,
+                "death": 5204
             },
             {
                 "date": "May 08, 2020",
                 "timestamp": "1588896000",
-                "confirmed": 41,
-                "death": 455
+                "confirmed": 41774,
+                "death": 5288
             },
             {
                 "date": "May 09, 2020",
                 "timestamp": "1588982400",
-                "confirmed": 42,
-                "death": 319
+                "confirmed": 42093,
+                "death": 5359
             },
             {
                 "date": "May 10, 2020",
                 "timestamp": "1589068800",
-                "confirmed": 42,
-                "death": 289
+                "confirmed": 42382,
+                "death": 5422
             },
             {
                 "date": "May 11, 2020",
                 "timestamp": "1589155200",
-                "confirmed": 42,
-                "death": 245
+                "confirmed": 42627,
+                "death": 5440
             },
             {
                 "date": "May 12, 2020",
                 "timestamp": "1589241600",
-                "confirmed": 42,
-                "death": 161
+                "confirmed": 42788,
+                "death": 5456
             },
             {
                 "date": "May 13, 2020",
                 "timestamp": "1589328000",
-                "confirmed": 42,
-                "death": 196
+                "confirmed": 42984,
+                "death": 5510
             },
             {
                 "date": "May 14, 2020",
                 "timestamp": "1589414400",
-                "confirmed": 43,
-                "death": 227
+                "confirmed": 43211,
+                "death": 5562
             },
             {
                 "date": "May 15, 2020",
                 "timestamp": "1589500800",
-                "confirmed": 43,
-                "death": 270
+                "confirmed": 43481,
+                "death": 5590
             },
             {
                 "date": "May 16, 2020",
                 "timestamp": "1589587200",
-                "confirmed": 43,
-                "death": 200
+                "confirmed": 43681,
+                "death": 5643
             },
             {
                 "date": "May 17, 2020",
                 "timestamp": "1589673600",
-                "confirmed": 43,
-                "death": 189
+                "confirmed": 43870,
+                "death": 5670
+            },
+            {
+                "date": "May 18, 2020",
+                "timestamp": "1589760000",
+                "confirmed": 43995,
+                "death": 5680
             }
         ]
     }
