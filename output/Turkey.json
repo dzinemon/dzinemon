@@ -439,6 +439,48 @@
                 "timestamp": "1590192000",
                 "confirmed": 154500,
                 "death": 4276
+            },
+            {
+                "date": "May 24, 2020",
+                "timestamp": "1590278400",
+                "confirmed": 155686,
+                "death": 4308
+            },
+            {
+                "date": "May 25, 2020",
+                "timestamp": "1590364800",
+                "confirmed": 156827,
+                "death": 4340
+            },
+            {
+                "date": "May 26, 2020",
+                "timestamp": "1590451200",
+                "confirmed": 157814,
+                "death": 4369
+            },
+            {
+                "date": "May 27, 2020",
+                "timestamp": "1590537600",
+                "confirmed": 158762,
+                "death": 4397
+            },
+            {
+                "date": "May 28, 2020",
+                "timestamp": "1590624000",
+                "confirmed": 159797,
+                "death": 4431
+            },
+            {
+                "date": "May 29, 2020",
+                "timestamp": "1590710400",
+                "confirmed": 160979,
+                "death": 4461
+            },
+            {
+                "date": "May 30, 2020",
+                "timestamp": "1590796800",
+                "confirmed": 162120,
+                "death": 4489
             }
         ]
     }
