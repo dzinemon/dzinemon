@@ -433,6 +433,72 @@
                 "timestamp": "1590796800",
                 "confirmed": 2278,
                 "death": 42
+            },
+            {
+                "date": "May 31, 2020",
+                "timestamp": "1590883200",
+                "confirmed": 2395,
+                "death": 44
+            },
+            {
+                "date": "June 01, 2020",
+                "timestamp": "1590969600",
+                "confirmed": 2517,
+                "death": 46
+            },
+            {
+                "date": "June 02, 2020",
+                "timestamp": "1591056000",
+                "confirmed": 2582,
+                "death": 46
+            },
+            {
+                "date": "June 03, 2020",
+                "timestamp": "1591142400",
+                "confirmed": 2653,
+                "death": 46
+            },
+            {
+                "date": "June 04, 2020",
+                "timestamp": "1591228800",
+                "confirmed": 2705,
+                "death": 51
+            },
+            {
+                "date": "June 05, 2020",
+                "timestamp": "1591315200",
+                "confirmed": 2781,
+                "death": 52
+            },
+            {
+                "date": "June 06, 2020",
+                "timestamp": "1591401600",
+                "confirmed": 2849,
+                "death": 53
+            },
+            {
+                "date": "June 07, 2020",
+                "timestamp": "1591488000",
+                "confirmed": 2934,
+                "death": 53
+            },
+            {
+                "date": "June 08, 2020",
+                "timestamp": "1591574400",
+                "confirmed": 3015,
+                "death": 55
+            },
+            {
+                "date": "June 09, 2020",
+                "timestamp": "1591660800",
+                "confirmed": 3104,
+                "death": 55
+            },
+            {
+                "date": "June 10, 2020",
+                "timestamp": "1591747200",
+                "confirmed": 3191,
+                "death": 58
             }
         ]
     }
