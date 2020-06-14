@@ -613,6 +613,12 @@
                 "timestamp": "1591747200",
                 "confirmed": 71879,
                 "death": 62
+            },
+            {
+                "date": "June 11, 2020",
+                "timestamp": "1591833600",
+                "confirmed": 73595,
+                "death": 66
             }
         ]
     }
