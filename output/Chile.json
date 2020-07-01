@@ -529,6 +529,162 @@
                 "timestamp": "1590796800",
                 "confirmed": 90638,
                 "death": 944
+            },
+            {
+                "date": "May 31, 2020",
+                "timestamp": "1590883200",
+                "confirmed": 94858,
+                "death": 997
+            },
+            {
+                "date": "June 01, 2020",
+                "timestamp": "1590969600",
+                "confirmed": 99688,
+                "death": 1054
+            },
+            {
+                "date": "June 02, 2020",
+                "timestamp": "1591056000",
+                "confirmed": 105159,
+                "death": 1113
+            },
+            {
+                "date": "June 03, 2020",
+                "timestamp": "1591142400",
+                "confirmed": 108686,
+                "death": 1188
+            },
+            {
+                "date": "June 04, 2020",
+                "timestamp": "1591228800",
+                "confirmed": 113628,
+                "death": 1275
+            },
+            {
+                "date": "June 05, 2020",
+                "timestamp": "1591315200",
+                "confirmed": 118292,
+                "death": 1356
+            },
+            {
+                "date": "June 06, 2020",
+                "timestamp": "1591401600",
+                "confirmed": 122499,
+                "death": 1448
+            },
+            {
+                "date": "June 07, 2020",
+                "timestamp": "1591488000",
+                "confirmed": 127745,
+                "death": 1541
+            },
+            {
+                "date": "June 08, 2020",
+                "timestamp": "1591574400",
+                "confirmed": 134150,
+                "death": 1637
+            },
+            {
+                "date": "June 09, 2020",
+                "timestamp": "1591660800",
+                "confirmed": 138846,
+                "death": 2264
+            },
+            {
+                "date": "June 10, 2020",
+                "timestamp": "1591747200",
+                "confirmed": 142759,
+                "death": 2283
+            },
+            {
+                "date": "June 11, 2020",
+                "timestamp": "1591833600",
+                "confirmed": 148496,
+                "death": 2475
+            },
+            {
+                "date": "June 12, 2020",
+                "timestamp": "1591920000",
+                "confirmed": 154092,
+                "death": 2648
+            },
+            {
+                "date": "June 13, 2020",
+                "timestamp": "1592006400",
+                "confirmed": 160846,
+                "death": 2870
+            },
+            {
+                "date": "June 14, 2020",
+                "timestamp": "1592092800",
+                "confirmed": 167355,
+                "death": 3101
+            },
+            {
+                "date": "June 15, 2020",
+                "timestamp": "1592179200",
+                "confirmed": 174293,
+                "death": 3323
+            },
+            {
+                "date": "June 16, 2020",
+                "timestamp": "1592265600",
+                "confirmed": 179436,
+                "death": 3362
+            },
+            {
+                "date": "June 17, 2020",
+                "timestamp": "1592352000",
+                "confirmed": 184449,
+                "death": 3383
+            },
+            {
+                "date": "June 18, 2020",
+                "timestamp": "1592438400",
+                "confirmed": 220628,
+                "death": 3615
+            },
+            {
+                "date": "June 19, 2020",
+                "timestamp": "1592524800",
+                "confirmed": 225103,
+                "death": 3841
+            },
+            {
+                "date": "June 20, 2020",
+                "timestamp": "1592611200",
+                "confirmed": 231393,
+                "death": 4093
+            },
+            {
+                "date": "June 21, 2020",
+                "timestamp": "1592697600",
+                "confirmed": 236748,
+                "death": 4295
+            },
+            {
+                "date": "June 22, 2020",
+                "timestamp": "1592784000",
+                "confirmed": 242355,
+                "death": 4479
+            },
+            {
+                "date": "June 23, 2020",
+                "timestamp": "1592870400",
+                "confirmed": 246963,
+                "death": 4502
+            },
+            {
+                "date": "June 24, 2020",
+                "timestamp": "1592956800",
+                "confirmed": 250767,
+                "death": 4505
+            },
+            {
+                "date": "June 25, 2020",
+                "timestamp": "1593043200",
+                "confirmed": 254416,
+                "death": 4731
             }
         ]
     }
