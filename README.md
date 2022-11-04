@@ -7,7 +7,7 @@
 
 ## What I use
 
-![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,gatsby,nextjs,netlify,nodejs,mongo,vercel,vscode,markdown,graphql,github,sass,tailwind,bootstrap&perline=6)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gatsby,graphql,nextjs,netlify,nodejs,express,mongo,vercel,webpack,vscode,markdown,graphql,github,githubactions,python,pug,sass,tailwind,bootstrap,figma&perline=6)
 
 ## GitHub stats
 
